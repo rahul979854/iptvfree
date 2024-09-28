@@ -3,23 +3,15 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqaY0q6kef3nM2tLQA5VFwIwHLl4TbiH5s8qql4bDSa-6a0h_7Z-jdfUq&s=10"group-title="BD VS IN",BD VS IN Live
 https://fdev.short.gy/IndVbanxRanapk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery HD Multi Audio
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-#https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
-#https://dplus.gammacdn.workers.dev/videos/95.m3u8
-#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery Hindi HD
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Information",Discovery Science Multi Audio
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
-#https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8
-#https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Science.m3u8
-#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery Bangla HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information",Animal Planet Multi Audio
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
-#https://od.lk/s/ODRfNzIxOTE5NjFf/Animal_Plannet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
+http://tv.cloudcdn.me/live.ts?channelId=177&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Bangla",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1.m3u8
