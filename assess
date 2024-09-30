@@ -45,7 +45,6 @@ https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Bangla",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/Dhoom_Music_old.webp" group-title="Bangla",Dhoom Music
 https://cdn3.pishow.tv/live/279/master.m3u8
 
@@ -60,6 +59,9 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 
 #EXTINF:-1 tvg-logo="https://ziplink.live/u/4zR1K" group-title="Bangla",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"group-title="KIDS",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/abp news.png" group-title="Hindi",Abp News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
@@ -142,3 +144,5 @@ https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold HD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
