@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="colorskannadahd.in" tvg-name="Kand:  Colors Kannada HD" tvg-logo="" group-title="KANNADA",Kand:  Colors Kannada HD
+https://starshare.live:443/live/bana/bana/162.ts
+
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="CRICKET",STAR SPORTS 1 Hd
 https://starshare.live:443/live/bana/bana/124281.ts
 
