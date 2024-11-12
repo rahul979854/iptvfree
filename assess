@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="colorskannadahd.in" tvg-name="Colors Kannada HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-19/2409191370024.jpg" group-title="KANNADA",Colors Kannada HD
-https://starshare.live:443/live/bana/bana/162.ts
+https://starshare.live:443/live/bana/bana/162.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="CRICKET",STAR SPORTS 1 Hd
 https://starshare.live:443/live/bana/bana/9397.ts
@@ -63,7 +63,7 @@ https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_Bengali.png"group-title="Information",Discovery Bangla HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information",Discovery Asia HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information",Discovery Asia HD 
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="ZEE5",ZEE Bangla HD
@@ -84,8 +84,8 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Bangla",Zee Bangla Cinema
 https://starshare.live:443/live/bana/bana/49615.ts
 
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA",JALSHA MOVIES (4K).
-https://starshare.live:443/live/bana/bana/98884.ts
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA",JALSHA MOVIES HD
+https://starshare.live:443/live/bana/bana/98884.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BD: Color Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s" group-title="BANGLA",Color Bangla Cinema
 https://starshare.live:443/live/bana/bana/271038.ts
