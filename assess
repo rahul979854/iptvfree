@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="colorskannadahd.in" tvg-name="Colors Kannada HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-09-19/2409191370024.jpg" group-title="KANNADA",Colors Kannada HD
-https://starshare.live:443/live/bana/bana/162.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="CRICKET",STAR SPORTS 1 Hd
 https://starshare.live:443/live/bana/bana/9397.m3u8
