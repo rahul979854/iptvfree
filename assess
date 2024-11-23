@@ -11,13 +11,13 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1114581&ext
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1104672&extension=ts&play_token=OFAIkDqMYq
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="INDIA SPORTS",Star Sports Select 1 HD
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1057243&extension=ts&play_token=chRqit7ayU
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1114583&extension=ts&play_token=I69yTwyv0Q
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="INDIA SPORTS",Star Sports Select 2 HD
 https://starshare.live:443/live/bana/bana/9401.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Astro_Cricket_%28October_2024%29.svg/revision/latest/scale-to-width-down/300?cb=20241023084131" group-title="CRICKET",ASTRO CRICKET HD
-https://starshare.live:443/live/bana/bana/2494.m3u8
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1104670&extension=ts&play_token=uBIC5acuFh
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://www.logotypes101.com/logos/921/A0E9CD5BCC9176DE238B630F5A474D6F/eurosporthd.png" group-title="INDIA SPORTS",EUROSPORTS HD
 https://starshare.live:443/live/bana/bana/23308.m3u8
@@ -38,7 +38,7 @@ https://starshare.live:443/live/bana/bana/148090.m3u8
 https://starshare.live:443/live/bana/bana/122412.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://h.top4top.io/p_2563jy7hz1.png" group-title="Football (Soccer)",Sports18 HD
-https://starshare.live:443/live/bana/bana/269596.m3u8
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1057243&extension=ts&play_token=chRqit7ayU
 
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
