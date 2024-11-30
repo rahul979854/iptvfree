@@ -204,3 +204,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: Star GOLD (FHD)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="INDIA HINDI MOVIES",Star GOLD (FHD)
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155969&extension=ts&play_token=0yD60hOdD0
+
+#EXTINF:-1 tvg-id="starmovies" tvg-name="IN: StarMovies (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPez9Wj2gknrCBW3YLifUanwV7NAbIbs9X5g&usqp=CAU" group-title="MOVIES",Star Movies (FHD)
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=282639&extension=ts&play_token=gTxS3sR7Rz
+
