@@ -34,10 +34,10 @@ https://starshare.live:443/live/bana/bana/23565.m3u8
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="http://stariptv.fun/logos/btsport3hd.png" group-title="CRICKET",TNT Sports 3 
 https://starshare.live:443/live/bana/bana/148090.m3u8
 
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://h.top4top.io/p_247357nqz1.png" group-title="SKY SPORTS",Sky Sports Cricket
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
 https://starshare.live:443/live/bana/bana/122412.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://h.top4top.io/p_2563jy7hz1.png" group-title="Football (Soccer)",Sports18 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1057243&extension=ts&play_token=chRqit7ayU
 
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
