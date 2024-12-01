@@ -11,7 +11,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1114581&ext
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1114582&extension=ts&play_token=f6tYE9I6nC
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="INDIA SPORTS",Star Sports Select 1 HD
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1114583&extension=ts&play_token=I69yTwyv0Q
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155972&extension=ts&play_token=JH6iUpgq4R
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="INDIA SPORTS",Star Sports Select 2 HD
 https://starshare.live:443/live/bana/bana/9401.m3u8
@@ -77,7 +77,7 @@ https://starshare.live:443/live/bana/bana/183.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ruposhi%20Bangla.jpeg" group-title="Bangla",Ruposhi Bangla
-https://cdn3.pishow.tv/live/281/master.m3u8
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=225769&extension=ts&play_token=OdLdKQdo3g
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Bangla",Zee Bangla Cinema
 https://starshare.live:443/live/bana/bana/49615.m3u8
@@ -107,7 +107,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1531203&ext
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgFfWnmz7ZN9wlA2i-hKnnjMveQ6i1V1qsdycklSTxOqZIpvDhCSt0XU&s=10" group-title="Bangla",R Bangla
-https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=225831&extension=ts&play_token=3aCZq5SHAV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"group-title="KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
@@ -143,16 +143,16 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Hindi Music" group-title="Hindi Music",B4U Music
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1423435&extension=ts&play_token=417qM643VV
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1423435&extension=ts&play_token=FoiPCFHWM7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mastiii" tvg-name="Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="INDIA MUSIC",Mastiii
-https://starshare.live:443/live/bana/bana/7256.m3u8
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156050&extension=ts&play_token=uUg3iypLMq
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Hindi Music",Zoom
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/music%20india.jpeg" group-title="Hindi Music",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
@@ -164,7 +164,7 @@ https://starshare.live:443/live/bana/bana/153.m3u8
 https://starshare.live:443/live/bana/bana/23791.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
-https://la.drmlive.au/tp/zee-pictures.m3u8
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155997&extension=ts&play_token=rY2dYKDjAh
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
 https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
