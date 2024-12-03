@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="CRICKET",STAR SPORTS 1 Hd
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1104673&extension=ts&play_token=KEpBaZH9Jj
 
@@ -167,7 +166,7 @@ https://starshare.live:443/live/bana/bana/23791.m3u8
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155997&extension=ts&play_token=rY2dYKDjAh
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
-https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
+https://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155975&extension=ts&play_token=oIlxtBTqc6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
 https://starshare.live:443/live/bana/bana/7065.m3u8
@@ -191,7 +190,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movies",Zee Action
-https://la.drmlive.au/tp/zee-zeeaction.m3u8
+https://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156139&extension=ts&play_token=DPBH1OEcxu
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
