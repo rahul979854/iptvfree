@@ -69,7 +69,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155774&exte
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="BANGLA",Star Jalsha (FHD)
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155770&extension=ts&play_token=zn1AaSoRDM
 
-#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://thumbnail.imgbin.com/20/15/16/imgbin-colors-bangla-bengali-television-show-television-channel-nepalis-mMkyqFccg0kQacbaxGNmpXFFv_t.jpg" group-title="BANGLA",Colors_Bengali_HD
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="BANGLA",Colors_Bengali_HD
 https://starshare.live:443/live/bana/bana/183.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla
