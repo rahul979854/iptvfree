@@ -114,6 +114,12 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3651e7400bb811efa5ca2f2804583edb_1715007128500.png?width=250&optimize=low&format=webp" group-title="Hindi",Abp News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156173&extension=ts&play_token=G6EadDzF0s
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156172&extension=ts&play_token=urMWp42Cxf
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg"group-title="Hindi",Sony Kal Hd
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
@@ -176,6 +182,9 @@ https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png"group-title="Hindi Movies",Sony Max 2 HD
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156003&extension=ts&play_token=heWXJwvskH
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
