@@ -19,7 +19,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155973&exte
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1104670&extension=ts&play_token=uBIC5acuFh
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://www.logotypes101.com/logos/921/A0E9CD5BCC9176DE238B630F5A474D6F/eurosporthd.png" group-title="INDIA SPORTS",EUROSPORTS HD
-https://starshare.live:443/live/bana/bana/23308.m3u8
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=154841&extension=ts&play_token=mKMBKbXP67
 
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",CRI: WILLOW CRICKET HD
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1036492&extension=ts&play_token=P18zmpYU8F
