@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="movies" tvg-name="IN: PUSHPA 2 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGi-dG-65qVPgLSB8__URxYhO18ksevzl6j_bdUo7NBumhC68zEMU-n1g&s" group-title="MOVIES",PUSHPA 2 4K
+https://botdrivea.filesdl.in/gpdl.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBQY3Y2ZHhpYWlHQktXenpGaXhsVHVBc2RmWU1hZHAyazNSU2hGdE16Y25kVTM3THEwT2RoM191MmVsd2FJa0JBP2tleT1hbkZHVlVORWFrVk1hMXB0WmxaVlVHeEZiblpJYm5keWQyeG1hMHhS
+
+
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="CRICKET",STAR SPORTS 1 Hd
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1104673&extension=ts&play_token=KEpBaZH9Jj
 
