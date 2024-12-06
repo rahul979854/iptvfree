@@ -1,8 +1,11 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="movies" tvg-name="IN: PUSHPA 2 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGi-dG-65qVPgLSB8__URxYhO18ksevzl6j_bdUo7NBumhC68zEMU-n1g&s" group-title="MOVIES",PUSHPA 2 4K
+#https://botdrivea.filesdl.in/gpdl.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBOTHNEZ3pQRmgtOGVlbTc2SzREZFZidndtYTR5NnVMS1dyNWVCbW4wdWh4WkxVWUFibm94VlIxa29OdHpzMVJnP2tleT1VekV5UVZkbGNFRjFZWEoyYjJFNFpYZG1UeTFWVm14TVZrZEdlV1JC
+#https://botx.filesdl.in/dl/dlb.php/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X1pfNTVfWTRZMklfMjNfT1dGXzQ3X1lfNTVfVl80N19ORE0xTkRfMTFfNU1fMTVfSTFaVF8zMF80T0dKXzhfWkRWXzMwX01fMjhfXzExX18zNF9fODNfXzE1X0lfMzRfWkdWMkxfMjhfQjNfNjRfXzU1X3dfMjNfXzgzX0M5UV82NF9YTl82Ml9fODNfR0VfNDdfTV8xNV9BXzIzX0pUSXdMU1VfMjNfTUZSXzYyX1pTVV8yM19NRkoxXzkxX0dVXzQ3X01fMTVfQV80N19NXzE1X18xMV9fMjNfTURJMEpUSTVKVEl3VTI5MV82NF9HXzExX180N19NXzE1X0JJXzk5X1c1XzMwX185OV9TVV8yM19NRVIxWV81NV9KXzQ3X1pDVV8yM19NRTFfMjZfXzY0X181NV9fNDdfXzQ3X0pUSXdTRkZEWVcwXzQ3X01fMTVfQV8xN19NRF8xMV93XzgzX0M1XzY1X185OV8zWT0=
 https://botdrivea.filesdl.in/gpdl.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBQY3Y2ZHhpYWlHQktXenpGaXhsVHVBc2RmWU1hZHAyazNSU2hGdE16Y25kVTM3THEwT2RoM191MmVsd2FJa0JBP2tleT1hbkZHVlVORWFrVk1hMXB0WmxaVlVHeEZiblpJYm5keWQyeG1hMHhS
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrfbIeT2a4i8UPVMikxgYDpxSyeAJ0IxA7w&s" group-title="Hindi",Zee kannada HD
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155719&extension=ts&play_token=MAxB6qNHa1
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="CRICKET",STAR SPORTS 1 Hd
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1104673&extension=ts&play_token=KEpBaZH9Jj
