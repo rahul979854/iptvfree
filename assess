@@ -122,7 +122,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=225831&exte
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3651e7400bb811efa5ca2f2804583edb_1715007128500.png?width=250&optimize=low&format=webp" group-title="Hindi",Abp News
-https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156173&extension=ts&play_token=G6EadDzF0s
