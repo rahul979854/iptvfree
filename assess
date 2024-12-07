@@ -107,16 +107,16 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155777&exte
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=225746&extension=ts&play_token=hLTZgzQKOo
 
 #EXTINF:-1 group-title="Indian Bangla News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-11-20/241120672011.jpg",ABP Ananda
-https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master_1280.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/Zee%2024%20ganta.png",Zee 24 Ghanta
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1531203&extension=ts&play_token=1XgCXWMddx
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/Tv9 bangla.png" group-title="Bangla",TV9 Bangla
-https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgFfWnmz7ZN9wlA2i-hKnnjMveQ6i1V1qsdycklSTxOqZIpvDhCSt0XU&s=10" group-title="Bangla",R Bangla
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=225831&extension=ts&play_token=3aCZq5SHAV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgFfWnmz7ZN9wlA2i-hKnnjMveQ6i1V1qsdycklSTxOqZIpvDhCSt0XU&s=10" group-title="Bangla",R. Bangla
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/3ad732d5-0ba0-4a5a-9868-1dd44186ef0a/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"group-title="KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
@@ -135,6 +135,9 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png" group-title="Hindi",India Today HD
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png" group-title="Bangla",R. Bharat
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/be47baec-9c82-4b77-aa1b-8b27de1580dc/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156173&extension=ts&play_token=G6EadDzF0s
