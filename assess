@@ -125,10 +125,16 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzthDqtVIb8Sw5eySV4OWH4_Mnfu7kLj0crg&s" group-title="Hindi",Zee News HD
-https://zeenews.india.com/hindi/news/live-tv.html?videoId=183&title=Zee%20News&extraParam1=Zee%20News&extraParam2=https://zeenews.india.com/hindi/&taptounmute=0&mute=1&piv=1&pip=0&autoplay=1
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpFMV3lG5vkbreV-RxXTb-6ekQjNgRouxufKvFPGIARzHXfs17bj-gFNk&s=10" group-title="Hindi",Zee News BR & JH HD
-https://zeenews.india.com/hindi/news/live-tv.html?videoId=zee_bihar&title=Zee%20BHJK&extraParam1=Zee%20News&extraParam2=https://zeenews.india.com/hindi/india/bihar-jharkhand/&taptounmute=0&mute=1&piv=1&pip=0&autoplay=1
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SqnD3wOHGfoGx7bT6zW8dPIUoptFcAatDunGp4nKuBzAOf4qe7ppxrk&s=10" group-title="Hindi",AAj Taak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRny3avOyz6FSZDEu3YfjHUTVWrig6zwHY0nA&usqp=CAU" group-title="Hindi",India Tv HD
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156173&extension=ts&play_token=G6EadDzF0s
