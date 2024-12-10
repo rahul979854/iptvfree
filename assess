@@ -245,7 +245,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=282639&exte
 http://starshare.live:8080/live/04494/04494/9452.m3u8
 
 #EXTINF:-1 tvg-id="starsuvarnahd.in" tvg-name="STAR-SUVARNA HD" tvg-logo="https://indiantvinfo.com/media/2023/03/Star-Suvarna-New-Logo.png" group-title="KANNADA",STAR SUVARNA HD
-http://starshare.live:8080/live/04494/04494/23322.m3u8
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155705&extension=ts&play_token=5Oj2nrsZzd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrfbIeT2a4i8UPVMikxgYDpxSyeAJ0IxA7w&s" group-title="KANNADA",Zee kannada HD
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155719&extension=ts&play_token=MAxB6qNHa1
