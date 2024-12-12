@@ -101,7 +101,7 @@ http://180.188.227.250:8095/stream/t/537/stream_0.m3u8?uid=2183433854&u=admin&p=
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Bangla",Sangeet Bangla
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155777&extension=ts&play_token=7fgkWnqzJW
+http://180.188.227.250:8095/stream/t/215/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/Dhoom_Music_old.webp" group-title="Bangla",Dhoom Music
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=225746&extension=ts&play_token=hLTZgzQKOo
