@@ -29,7 +29,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1104670&ext
 http://180.188.227.250:8095/stream/t/812/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",CRI: WILLOW CRICKET HD
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=1036492&extension=ts&play_token=P18zmpYU8F
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/93735
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="RUGBY",TNT SPORT 1
 https://starshare.live:443/live/bana/bana/23564.m3u8
@@ -41,7 +41,7 @@ https://starshare.live:443/live/bana/bana/23565.m3u8
 https://starshare.live:443/live/bana/bana/148090.m3u8
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
-https://starshare.live:443/live/bana/bana/122412.m3u8
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/102251
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
 http://180.188.227.250:8095/stream/t/1033/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
