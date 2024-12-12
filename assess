@@ -104,7 +104,7 @@ https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 http://180.188.227.250:8095/stream/t/215/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/Dhoom_Music_old.webp" group-title="Bangla",Dhoom Music
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=225746&extension=ts&play_token=hLTZgzQKOo
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/100671
 
 #EXTINF:-1 group-title="Indian Bangla News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-11-20/241120672011.jpg",ABP Ananda
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master_1280.m3u8
@@ -161,7 +161,7 @@ http://180.188.227.250:8095/stream/t/40/stream_0.m3u8?uid=2183433854&u=admin&p=e
 http://180.188.227.250:8095/stream/t/63/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155977&extension=ts&play_token=7X1LY7BNju
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96206
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png"group-title="Hindi Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -173,7 +173,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=280784&exte
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Hindi Music" group-title="Hindi Music",B4U Music
-http://180.188.227.250:8095/stream/t/9/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96292
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
@@ -185,7 +185,7 @@ https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453
 http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156161&extension=ts&play_token=0axdTZ5q0M
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/music%20india.jpeg" group-title="Hindi Music",Music India
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156056&extension=ts&play_token=Xmg0LSn9ro
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96238
 
 #EXTINF:-1 tvg-id="mtvbeatshd" tvg-name="MTV BEATS HD" tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="INDIA MUSIC",MTV BEATS HD
 http://180.188.227.250:8095/stream/t/405/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
@@ -236,12 +236,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: Star GOLD (FHD)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="INDIA HINDI MOVIES",Star GOLD (FHD)
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96174
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="INDIA HINDI MOVIES",& xplor(FHD)
 http://180.188.227.250:8095/stream/t/1183/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-id="starmovies" tvg-name="IN: StarMovies (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPez9Wj2gknrCBW3YLifUanwV7NAbIbs9X5g&usqp=CAU" group-title="MOVIES",Star Movies (FHD)
-
+http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/93668
 
 #EXTINF:-1 tvg-id="zeepicchar.in" tvg-name="ZEE Picchar (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-HKtUWqFWB-hsCOP2JFjBHBKGLl1e2zvdw&usqp=CAU" group-title="KANNADA",ZEE Picchar HD
 http://180.188.227.250:8095/stream/t/1181/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
