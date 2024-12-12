@@ -32,13 +32,13 @@ http://180.188.227.250:8095/stream/t/812/stream_0.m3u8?uid=2183433854&u=admin&p=
 http://188.241.218.75/live/bana/bana/215.m3u8?token=ShJcU0BbQQNHCVdaAQEGWA9UVQUEUVFYBQcHAFwBC1dXA1AEVgsCDlMbGBpEF0dcWF1vWQIXXlMAV04VEBdWQG5ZUBAJEVsAVgECDhVPF01QXVUSXAVIQ0ELBhVfRgIGBQkNAAIRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAClsMRxUWW1gWW01LSRIKRHwqQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRAFMJVgkNGko=
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="RUGBY",TNT SPORT 1
-https://starshare.live:443/live/bana/bana/23564.m3u8
+https://live5.ostv.pro/live/bana/bana/23564.m3u8?token=ShJcU0BbQQNHDgJdUgUCXAoJAAFQAlQFAQRWVlZXAQQIUwEDUVBSWAAbGBpEF0dcWF1vWQIXXlMCV1QDSUZGQVRCa1tXEVkbXQAHAAFVFxUbRFldAxdeUR1AEl4BRgkQAwgABQQBWxtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPChRdDk4VBw1HQFBEURAJEVoJVQ0WFBUAWkxXREJJRA9GKH9AThUAHEdXX0NdXV0RWRsICkEAFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCUEIUAAEDwJWF0Q=
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2." tvg-logo="http://stariptv.fun/logos/btsport2hd.png" group-title="RUGBY",TNT SPORT 2
-https://starshare.live:443/live/bana/bana/23565.m3u8
+https://live5.ostv.pro/live/bana/bana/23565.m3u8?token=ShJcU0BbQQNHXwNeBAJRXF0AAQkFUQICBABXBwZRA1YECFJXBwAGDFUbGBpEF0dcWF1vWQIXXlMCV1QCSUZGQVRCa1tXEVkbXQAHAAFVFxUbRFldAxdeUR1AEl4BRgkQAwcDCgUAVRtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPChRdDk4VBw1HQFBEURAJEVYPVQkWFBUAWkxXREJJRA9GKH9AThUAHEdXX0NdXV0RWRsICkEAFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCUEIUAAEDwJbF0Q=
 
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="http://stariptv.fun/logos/btsport3hd.png" group-title="CRICKET",TNT Sports 3 
-https://starshare.live:443/live/bana/bana/148090.m3u8
+https://live.ostv.pro/live/bana/bana/148090.m3u8?token=ShJcU0BbQQNHDVEABVdQWgkDBAdQAlUEVFtXVlNdVVRUUlFXUFACWgQbGBpEF0dcWF1vWQIXXlAFWlIOVUgRR0JVRm1aV0EDRwENCw9VAxsVEkRZC1BGWwFOQEcMABEIEwEMAgoFVQxHFRZdTxdQS1dRXG8CUBIIUgdADQsRX14dEltcbFcGVARXUBoNQQUbFRJZQxYXXg9EDg4bRwZaRkNRQFcRCUEMUAsHGhtBVlZMXkRCHxdeQ3gsQBtHAUtGVF5HW1xdQQNHVAdND0EZG1BDb0IDRhATVAMPUhdGCRABEhgQXlIbZgZWWlZSAEFQVl5DElwXVUMdQA9YCw1HXUNvRFtXEVkbVwsGCQNWBBtE
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
 http://starshare.live:8080/live/bana/bana/124269.m3u8
@@ -173,7 +173,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=280784&exte
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Hindi Music" group-title="Hindi Music",B4U Music
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96292
+https://live10.ostv.pro/live/bana/bana/7258.m3u8?token=ShJcU0BbQQNHCFZbVVIAXQhVBVYDUVUDB1ADAVZUBwMGVQICVgsGC1MbGBpEF0dcWF1vWQIXXlYDV1obRxFAV0NvXVYRCUEBXAoMDgFBGRtNWV1VRA9UTRMSC1NHXhEACQgABQYAQRVHXExMUhFbWFVvVFUQXAcEE1gMQgkIHxBeXmtWVl4CVwEbDhoHQRkbUENAElxbEQ1dTkBVDBBBU0VVFggRAlAKXRsYGlQMQFdNQkkSXBctLxNOQFIdEFZcQllbXBEJQVRWTAwaG0FcSmZCVUMSRwEAXAcQFV9GAxAdEllTS2wAVgtXUVtDClpXShIKElcXSENcDQxeEQtBbUFZUBAJEVEJVA4EDwFBSA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
@@ -182,7 +182,7 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/34a66bf7-e82c-4d52-b326-c2b658b1564f/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Hindi Music",Zoom
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=156161&extension=ts&play_token=0axdTZ5q0M
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/music%20india.jpeg" group-title="Hindi Music",Music India
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96238
