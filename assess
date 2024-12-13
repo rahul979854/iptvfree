@@ -239,13 +239,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: Star GOLD (FHD)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="INDIA HINDI MOVIES",Star GOLD (FHD)
 #http://starshare.live:8080/live/bana/bana/98858.m3u8
-http://188.241.219.62/live/bana/bana/194.m3u8?token=ShJcU0BbQQNHC1EKU1oACF0IAAcEUQdZCFFRD1YHAwZQU1ABAVcGCQQbGBpEF0dcWF1vWQIXXlAIVk4VEBdWQG5ZUBAJEVsAVgECDhVPF01QXVUSXAVIQ0ELBhVfRgcCCQIFAQIRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhACBFcIRxUWW1gWW01LSRIKRHwqQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRB1MPUQsBCRUe
+http://starshare.live/live/bana/bana/194.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="INDIA HINDI MOVIES",& xplor(FHD)
 http://180.188.227.250:8095/stream/t/1183/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-id="starmovies" tvg-name="IN: StarMovies (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPez9Wj2gknrCBW3YLifUanwV7NAbIbs9X5g&usqp=CAU" group-title="MOVIES",Star Movies (FHD)
-http://46.229.251.19/live/bana/bana/979.m3u8?token=ShJcU0BbQQNHAAwIU1sCXwxWVABWVwJXAgZQBgBQUQcGAAUHBABVCQAbGBpEF0dcWF1vWQIXXlgGW04VEBdWQG5ZUBAJEVsAVgECDhVPF01QXVUSXAVIQ0ELBhVfRgADCQcHAwMRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAAVQKRxUWW1gWW01LSRIKRHwqQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRAlcLXA8CARUe
+http://starshare.live/live/bana/bana/979.m3u8
 
 #EXTINF:-1 tvg-id="zeepicchar.in" tvg-name="ZEE Picchar (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-HKtUWqFWB-hsCOP2JFjBHBKGLl1e2zvdw&usqp=CAU" group-title="KANNADA",ZEE Picchar HD
 http://180.188.227.250:8095/stream/t/1181/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
