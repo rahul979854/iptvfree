@@ -41,7 +41,7 @@ https://starshare.live:443/live/bana/bana/23565.m3u8
 https://starshare.live:443/live/bana/bana/148090.m3u8
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
-http://starshare.live:8080/live/bana/bana/124269.m3u8
+http://103.244.145.205/live/bana/bana/124269.ts?token=ShJcU0BbQQNHAVYBAwcDAA1VBVMCVwECVVpRUwACAVECVFcEBwJUCgEbGBpEF0dcWF1vWQIXXlADVlABXEgRR0JVRm1aV0EDRwENCw9VAxsVEkRZC1BGWwBVUQNUUwADCQUYEENaBxtfGwYOAlsEGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBgELBhIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVXAQAAEk0=
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
 http://180.188.227.250:8095/stream/t/1033/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
