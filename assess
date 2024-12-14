@@ -23,13 +23,13 @@ http://180.188.227.250:8095/stream/t/246/stream_0.m3u8?uid=2183433854&u=admin&p=
 http://180.188.227.250:8095/stream/t/463/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
-http://103.244.145.15/live/bana/bana/2494.m3u8?token=ShJcU0BbQQNHDgBZUQUACw1TAQRUAVQCAlNaDlZSAgMJAFFUAQpSDFcbGBpEF0dcWF1vWQIXXlMFW1YbRxFAV0NvXVYRCUEBXAoMDgFBGRtNWV1VRA9VVgJWUwBRVQYFHRJEW1cRWRtUCA0LAFQEGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBAwOCRIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVQBg4AAQcAREg=
+http://starsport.live/live/bana/bana/2494.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://www.logotypes101.com/logos/921/A0E9CD5BCC9176DE238B630F5A474D6F/eurosporthd.png" group-title="INDIA SPORTS",EUROSPORTS HD
 http://180.188.227.250:8095/stream/t/812/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",CRI: WILLOW CRICKET HD
-http://188.241.218.75/live/bana/bana/215.m3u8?token=ShJcU0BbQQNHXAQBAVsHCFoAAwlVAAdWB1ZWA1YBAFMGBANWBFBaDlYbGBpEF0dcWF1vWQIXXlMAV04VEBdWQG5ZUBAJEVsAVgECDhVPF01QXVUSXARTUgVTVQNXVgYeE0BdVhEJQQpSDwYNAkEZG1xIRFUUWwUNbgYHQQwHVhALXkFeXx9BVgtmUF1aAltdGwoSAEQZRghCEkANCxFfXh0SVltHQQJNABsOGgVVBAEbHBJTCUAKFUMbQA1HLX0QHRJRSkdWDUoMVloaDUFBShscElkVahYEQhYQUgQJVkATChYCER9BVARBa1tYDVtcWkRZXwhGRlsTU0AbRwlcXFhEW0BsQwpdRwMWCwdTBgkAEk0=
+http://starshare.live/live/bana/bana/215.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="RUGBY",TNT SPORT 1
 https://starshare.live:443/live/bana/bana/148090.m3u8
@@ -173,7 +173,7 @@ http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=280784&exte
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Hindi Music" group-title="Hindi Music",B4U Music
-http://103.244.145.15/live/bana/bana/7258.m3u8?token=ShJcU0BbQQNHC1VcU1oNAAgAVQNVDAEEAQEBBlFUBQcJCVUKA1cFWAMbGBpEF0dcWF1vWQIXXlYDV1obRxFAV0NvXVYRCUEBXAoMDgFBGRtNWV1VRA9VVgJWUwBRVgQDHRJEW1cRWRtUCQEBBlcBGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBAoLARIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVRBQgOAAcGREg=
+http://starshare.live/live/bana/bana/7258.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
@@ -184,7 +184,7 @@ https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Hindi Music",Zoom
 #http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=127260&extension=ts&play_token=YssGTmwnmO
-http://46.229.253.27/live/bana/bana/9488.m3u8?token=ShJcU0BbQQNHC1IAVgYBW10JVAlVDVBSUFNSVl1VVlBVBFIABQUCCQEbGBpEF0dcWF1vWQIXXlgFWlobRxFAV0NvXVYRCUEBXAoMDgFBGRtNWV1VRA9VVgJWUwBRVwUEHRJEW1cRWRtTDgIAAVQXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSBwEKEhwSBVoRD0UQGxVfRnp8ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgZRBQkKBAgSGw==
+http://starshare.live/live/bana/bana/9488.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/music%20india.jpeg" group-title="Hindi Music",Music India
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96238
@@ -238,7 +238,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: Star GOLD (FHD)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="INDIA HINDI MOVIES",Star GOLD (FHD)
-#http://starshare.live:8080/live/bana/bana/98858.m3u8
+#http://starshare.live/live/bana/bana/98858.m3u8
 http://starshare.live/live/bana/bana/194.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="INDIA HINDI MOVIES",& xplor(FHD)
