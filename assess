@@ -23,7 +23,7 @@ http://180.188.227.250:8095/stream/t/246/stream_0.m3u8?uid=2183433854&u=admin&p=
 http://180.188.227.250:8095/stream/t/463/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
-http://starsport.live/live/bana/bana/2494.m3u8
+http://starshare.live/live/bana/bana/2494.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://www.logotypes101.com/logos/921/A0E9CD5BCC9176DE238B630F5A474D6F/eurosporthd.png" group-title="INDIA SPORTS",EUROSPORTS HD
 http://180.188.227.250:8095/stream/t/812/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
