@@ -5,22 +5,22 @@
 https://botx.filesdl.in/dl/dlb.php/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X1pfNTVfWTRZMklfMjNfT1dGXzQ3X1lfNTVfVl80N19ORE0xTkRfMTFfNU1fMTVfSTFaVF8zMF80T0dKXzhfWkRWXzMwX01fMjhfXzExX18zNF9fODNfXzE1X0lfMzRfWkdWMkxfMjhfQjNfNjRfXzU1X3dfMjNfXzgzX0M5UV82NF9YTl82Ml9fODNfR0VfNDdfTV8xNV9BXzIzX0pUSXdMU1VfMjNfTUZSXzYyX1pTVV8yM19NRkoxXzkxX0dVXzQ3X01fMTVfQV80N19NXzE1X18xMV9fMjNfTURJMEpUSTVKVEl3VTI5MV82NF9HXzExX180N19NXzE1X0JJXzk5X1c1XzMwX185OV9TVV8yM19NRVIxWV81NV9KXzQ3X1pDVV8yM19NRTFfMjZfXzY0X181NV9fNDdfXzQ3X0pUSXdTRkZEWVcwXzQ3X01fMTVfQV8xN19NRF8xMV93XzgzX0M1XzY1X185OV8zWT0=
 
 #EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="Star Sports 1 Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPLxN9JyE1KeREoxGvI9JMBIJSWDDaMbb8U_527S4IMBaaNn42atIpdTI&s=10" group-title="CRICKET",Star Sports 1 Kannada Hd
-http://188.241.218.75/live/bana/bana/380977.m3u8?token=ShJcU0BbQQNHXVBbAlIBXAhTBAAAV1AEAQZTDlRRUQJTUVICClFSWgEbGBpEF0dcWF1vWQIXXlIJUlsAUkgRR0JVRm1aV0EDRwENCw9VAxsVEkRZC1BGWwFOQEcMABEIEwIBBgAEWw5HFRZdTxdQS1dRXG8CUBIIUgdADQsRX14dEltcbFcGVARXUBoNQQUbFRJZQxYXXg9EDg4bRwZaRkNRQFcRCUEIXQECGhtBVlZMXkRCHxdeQ3gsQBtHAUtGVF5HW1xdQQNHVAdND0EZG1BDb0IDRhATVAMPUhdGCRABEhgQXlIbZgZWWlZSAEFQVl5DElwXVUMdQA9YCw1HXUNvRFtXEVkbVwEHDAJSAxtE
+http://starshare.live/live/bana/bana/380977.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="CRICKET",STAR SPORTS 1 Hd
-http://180.188.227.250:8095/stream/t/78/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://starshare.live:443/live/bana/bana/148.m3u8
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 Hd" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-1021-j5nj3c68-v1%2FimageContent-1021-j5nj3c68-m1.png&w=256&q=75" group-title="CRICKET",STAR SPORTS 2 Hd
-http://180.188.227.250:8095/stream/t/235/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://starshare.live:443/live/bana/bana/239.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="CRICKET",Star Sport 1 HINDI HD
-http://180.188.227.250:8095/stream/t/24/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://starshare.live:443/live/bana/bana/211.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="INDIA SPORTS",Star Sports Select 1 HD
-http://180.188.227.250:8095/stream/t/246/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://starshare.live:443/live/bana/bana/238.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="INDIA SPORTS",Star Sports Select 2 HD
-http://180.188.227.250:8095/stream/t/463/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://starshare.live:443/live/bana/bana/148801.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
 http://starshare.live/live/bana/bana/2494.m3u8
@@ -41,7 +41,7 @@ https://starshare.live:443/live/bana/bana/23565.m3u8
 https://starshare.live:443/live/bana/bana/148090.m3u8
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
-http://starshare.live/live/bana/bana/124269.m3u8
+http://starshare.live/live/bana/bana/12.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
 http://180.188.227.250:8095/stream/t/1033/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
@@ -196,10 +196,10 @@ http://180.188.227.250:8095/stream/t/405/stream_0.m3u8?uid=2183433854&u=admin&p=
 https://starshare.live:443/live/bana/bana/23791.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
-http://180.188.227.250:8095/stream/t/267/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://starshare.live:443/live/bana/bana/231.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
-http://180.188.227.250:8095/stream/t/503/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+https://starshare.live:443/live/bana/bana/230.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
 https://starshare.live:443/live/bana/bana/7065.m3u8
