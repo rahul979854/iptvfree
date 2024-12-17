@@ -161,7 +161,7 @@ http://180.188.227.250:8095/stream/t/40/stream_0.m3u8?uid=2183433854&u=admin&p=e
 http://180.188.227.250:8095/stream/t/63/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
-http://starshare.live:8080/live/bana/bana/4037.m3u8
+http://starshare.live/live/bana/bana/4037.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png"group-title="Hindi Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
