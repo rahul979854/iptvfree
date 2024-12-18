@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="movies" tvg-name="IN: PUSHPA 2 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGi-dG-65qVPgLSB8__URxYhO18ksevzl6j_bdUo7NBumhC68zEMU-n1g&s" group-title="MOVIES",PUSHPA 2 4K
 #https://botdrivea.filesdl.in/gpdl.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBQY3Y2ZHhpYWlHQktXenpGaXhsVHVBc2RmWU1hZHAyazNSU2hGdE16Y25kVTM3THEwT2RoM191MmVsd2FJa0JBP2tleT1hbkZHVlVORWFrVk1hMXB0WmxaVlVHeEZiblpJYm5keWQyeG1hMHhS
 #https://botdrivea.filesdl.in/gpdl.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBOTHNEZ3pQRmgtOGVlbTc2SzREZFZidndtYTR5NnVMS1dyNWVCbW4wdWh4WkxVWUFibm94VlIxa29OdHpzMVJnP2tleT1VekV5UVZkbGNFRjFZWEoyYjJFNFpYZG1UeTFWVm14TVZrZEdlV1JC
@@ -226,7 +227,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movies",Zee Action
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96169
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
