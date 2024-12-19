@@ -253,3 +253,7 @@ http://180.188.227.250:8095/stream/t/467/stream_0.m3u8?uid=2183433854&u=admin&p=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrfbIeT2a4i8UPVMikxgYDpxSyeAJ0IxA7w&s" group-title="KANNADA",Zee kannada HD
 http://180.188.227.250:8095/stream/t/675/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
+
+
+#EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-kannada-1674468265423.png" group-title="KANNADA",Colors kannada HD
+https://jcevents.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/hdntl=exp=1734603138~acl=%2f*~id=f6babb56d4c20c068ec67fd4bb3df7f7~data=hdntl~hmac=4ec02c0bb4e6c05947f0d7931f103e9c3eb4139c403f1f7c58847bdc536ea747/index.m3u8
