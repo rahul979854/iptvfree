@@ -141,7 +141,7 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 http://180.188.227.250:8095/stream/t/244/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
-https://jcevents.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/hdntl=exp=1734603138~acl=%2f*~id=f6babb56d4c20c068ec67fd4bb3df7f7~data=hdntl~hmac=4ec02c0bb4e6c05947f0d7931f103e9c3eb4139c403f1f7c58847bdc536ea747/index.m3u8
+https://live.drmlive-02.workers.dev/jc/144.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg"group-title="Hindi",Sony Kal Hd
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -209,7 +209,7 @@ https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
-https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/hdntl=exp=1734603138~acl=%2f*~id=f6babb56d4c20c068ec67fd4bb3df7f7~data=hdntl~hmac=4ec02c0bb4e6c05947f0d7931f103e9c3eb4139c403f1f7c58847bdc536ea747/index.m3u8
+https://live.drmlive-02.workers.dev/jc/1477.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
@@ -257,4 +257,4 @@ http://180.188.227.250:8095/stream/t/675/stream_0.m3u8?uid=2183433854&u=admin&p=
 
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-kannada-1674468265423.png" group-title="KANNADA",Colors kannada HD
-https://jcevents.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/hdntl=exp=1734603138~acl=%2f*~id=f6babb56d4c20c068ec67fd4bb3df7f7~data=hdntl~hmac=4ec02c0bb4e6c05947f0d7931f103e9c3eb4139c403f1f7c58847bdc536ea747/index.m3u8
+https://live.drmlive-02.workers.dev/yupptv/premium/colorskannadahd.m3u8
