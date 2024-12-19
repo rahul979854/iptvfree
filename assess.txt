@@ -41,7 +41,8 @@ https://starshare.live:443/live/bana/bana/148090.m3u8
 http://starshare.live/live/bana/bana/12.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
-https://starshare.live:443/live/bana/bana/213049.m3u8
+#https://starshare.live:443/live/bana/bana/213049.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1734696001~acl=%2f*~id=8bfa83d1ce9c085121cd42e14795e4ae~data=hdntl~hmac=6b75954cb0a97ac88df2cef7f845a8b3c2089537656d3367661700eac952ad71/index.m3u8
 
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
