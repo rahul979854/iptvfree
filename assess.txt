@@ -49,7 +49,8 @@ http://starshare.live/live/bana/bana/12.m3u8
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="Sports",Sports 18 1 HD
 #EXTVLCOPT:http-user-agent= R
 #https://starshare.live:443/live/bana/bana/213049.m3u8
-https://live.drmlive-02.workers.dev/jc/122.m3u8
+#https://live.drmlive-02.workers.dev/jc/122.m3u8
+https://drmlive.in/voot/122.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",SONY SPORTS TEN 1 HD
 #EXTVLCOPT:http-user-agent= R
