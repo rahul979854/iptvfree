@@ -6,51 +6,51 @@ http://starshare.live/live/bana/bana/380977.m3u8
 
 #EXTINF:-1 tvg-id="78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/148.m3u8
+https://starshare.live/live/bana/bana/148.m3u8
 
 #EXTINF:-1 tvg-id="235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/239.m3u8
+https://starshare.live/live/bana/bana/239.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/211.m3u8
+https://starshare.live/live/bana/bana/211.m3u8
 
 #EXTINF:-1 tvg-id="246" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/238.m3u8
+https://starshare.live/live/bana/bana/238.m3u8
 
 #EXTINF:-1 tvg-id="463" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/148801.m3u8
+https://starshare.live/live/bana/bana/148801.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
 http://starshare.live/live/bana/bana/2494.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="Sports",Eurosport HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/216.m3u8
+https://starshare.live/live/bana/bana/216.m3u8
 
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",CRI: WILLOW CRICKET HD
 http://starshare.live/live/bana/bana/215.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="RUGBY",TNT SPORT 1
-https://starshare.live:443/live/bana/bana/186627.m3u8
+https://starshare.live/live/bana/bana/186627.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2." tvg-logo="http://stariptv.fun/logos/btsport2hd.png" group-title="RUGBY",TNT SPORT 2
-https://starshare.live:443/live/bana/bana/23565.m3u8
+https://starshare.live/live/bana/bana/23565.m3u8
 
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="http://stariptv.fun/logos/btsport3hd.png" group-title="CRICKET",TNT Sports 3 
-https://starshare.live:443/live/bana/bana/148090.m3u8
+https://starshare.live/live/bana/bana/148090.m3u8
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
 http://starshare.live/live/bana/bana/12.m3u8
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="Sports",Sports 18 1 HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/213049.m3u8
 #https://live.drmlive-02.workers.dev/jc/122.m3u8
 #https://drmlive.in/voot/122.m3u8
+https://starshare.live/live/bana/bana/213049.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",SONY SPORTS TEN 1 HD
 #EXTVLCOPT:http-user-agent= R
@@ -84,44 +84,44 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #EXTINF:-1 tvg-id="287" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="Knowledge",Animal Planet HD World
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/423857.m3u8
+https://starshare.live/live/bana/bana/423857.m3u8
 
 #EXTINF:-1 tvg-id="522" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Bengali",Zee Bangla HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/435.m3u8
+https://starshare.live/live/bana/bana/435.m3u8
 
 
 #EXTINF:-1 tvg-id="468" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Bengali",Star Jalsha HD
 #EXTVLCOPT:http-user-agent= R
-https://starshare.live:443/live/bana/bana/23218.m3u8
+https://starshare.live/live/bana/bana/23218.m3u8
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="BANGLA",Colors_Bengali_HD
-https://starshare.live:443/live/bana/bana/183.m3u8
+https://starshare.live/live/bana/bana/183.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ruposhi%20Bangla.jpeg" group-title="Bangla",Ruposhi Bangla
-https://starshare.live:443/live/bana/bana/409.m3u8
+https://starshare.live/live/bana/bana/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Bangla",Zee Bangla Cinema
-https://starshare.live:443/live/bana/bana/49615.m3u8
+https://starshare.live/live/bana/bana/49615.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA",JALSHA MOVIES HD
-https://starshare.live:443/live/bana/bana/425.m3u8
+https://starshare.live/live/bana/bana/425.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BD: Color Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s" group-title="BANGLA",Color Bangla Cinema
-http://starshare.live:8080/live/bana/bana/271038.m3u8
+http://starshare.live/live/bana/bana/271038.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali",SONY AATH
 #EXTVLCOPT:http-user-agent= R
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Bangla",Sangeet Bangla
-https://starshare.live:443/live/bana/bana/405.m3u8
+https://starshare.live/live/bana/bana/405.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/Dhoom_Music_old.webp" group-title="Bangla",Dhoom Music
-https://starshare.live:443/live/bana/bana/404.m3u8
+https://starshare.live/live/bana/bana/404.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-11-20/241120672011.jpg",ABP Ananda
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master_1280.m3u8
@@ -157,33 +157,33 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/b2b6e3e4-af46-4b50-8e02-054b36c23519/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
-https://starshare.live:443/live/bana/bana/199.m3u8
+https://starshare.live/live/bana/bana/199.m3u8
 
 
-https://starshare.live:443/live/bana/bana/221.m3u8
+https://starshare.live/live/bana/bana/221.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
 #https://live.drmlive-02.workers.dev/jc/144.m3u8
 #https://drmlive.in/voot/144.m3u8
-https://starshare.live:443/live/bana/bana/219.m3u8
+https://starshare.live/live/bana/bana/219.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg"group-title="Hindi",Sony Kal Hd
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV Hd
 #https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-https://starshare.live:443/live/bana/bana/144.m3u8
+https://starshare.live/live/bana/bana/144.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/sonysab.png"group-title="Hindi",Sony Sab Hd
 #https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-https://starshare.live:443/live/bana/bana/145.m3u8
+https://starshare.live/live/bana/bana/145.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
-https://starshare.live:443/live/bana/bana/232.m3u8
+https://starshare.live/live/bana/bana/232.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Hindi",Zee tv HD
-https://starshare.live:443/live/bana/bana/161.m3u8
+https://starshare.live/live/bana/bana/161.m3u8
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
@@ -192,7 +192,7 @@ http://starshare.live/live/bana/bana/4037.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music",9XM
-https://starshare.live:443/live/bana/bana/7255.m3u8
+https://starshare.live/live/bana/bana/7255.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/9x%20jalwa.jpeg"group-title="Hindi Music",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
@@ -215,39 +215,39 @@ http://starshare.live/live/bana/bana/9488.m3u8
 https://starshare.live:443/live/bana/bana/375342.m3u8
 
 #EXTINF:-1 tvg-id="mtvbeatshd" tvg-name="MTV BEATS HD" tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="INDIA MUSIC",MTV BEATS HD
-https://starshare.live:443/live/bana/bana/153.m3u8
+https://starshare.live/live/bana/bana/153.m3u8
 
 #EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",MTV HD Plus
-https://starshare.live:443/live/bana/bana/23791.m3u8
+https://starshare.live/live/bana/bana/23791.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
 https://starshare.live:443/live/bana/bana/231.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
-https://starshare.live:443/live/bana/bana/230.m3u8
+https://starshare.live/live/bana/bana/230.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
-https://starshare.live:443/live/bana/bana/7065.m3u8
+https://starshare.live/live/bana/bana/7065.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png"group-title="Hindi Movies",Sony Max HD
 #https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-https://starshare.live:443/live/bana/bana/151.m3u8
+https://starshare.live/live/bana/bana/151.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png"group-title="Hindi Movies",Sony Max 2 HD
 #https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-https://starshare.live:443/live/bana/bana/973.m3u8
+https://starshare.live/live/bana/bana/973.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 #https://live.drmlive-02.workers.dev/jc/1477.m3u8
-#https://starshare.live:443/live/bana/bana/98908.m3u8
-https://drmlive.in/voot/1477.m3u8
+#https://drmlive.in/voot/1477.m3u8
+https://starshare.live/live/bana/bana/98908.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies 
-https://starshare.live:443/live/bana/bana/968.m3u8
+https://starshare.live/live/bana/bana/968.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/movie%20club.jpeg"group-title="Hindi Movies",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
@@ -256,7 +256,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movies",Zee Action
-https://starshare.live:443/live/bana/bana/967.m3u8
+https://starshare.live/live/bana/bana/967.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -273,24 +273,24 @@ http://starshare.live/live/bana/bana/194.m3u8
 
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="INDIA HINDI MOVIES",& xplor(FHD)
-https://starshare.live:443/live/bana/bana/20648.m3u8
+https://starshare.live/live/bana/bana/20648.m3u8
 
 #EXTINF:-1 tvg-id="starmovies" tvg-name="IN: StarMovies (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPez9Wj2gknrCBW3YLifUanwV7NAbIbs9X5g&usqp=CAU" group-title="MOVIES",Star Movies (FHD)
 #http://starshare.live/live/bana/bana/979.m3u8
 
 #EXTINF:-1 tvg-id="zeepicchar.in" tvg-name="ZEE Picchar (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-HKtUWqFWB-hsCOP2JFjBHBKGLl1e2zvdw&usqp=CAU" group-title="KANNADA",ZEE Picchar HD
-https://starshare.live:443/live/bana/bana/9452.m3u8
+https://starshare.live/live/bana/bana/9452.m3u8
 
 
 #EXTINF:-1 tvg-id="starsuvarnahd.in" tvg-name="STAR-SUVARNA HD" tvg-logo="https://indiantvinfo.com/media/2023/03/Star-Suvarna-New-Logo.png" group-title="KANNADA",STAR SUVARNA HD
-https://starshare.live:443/live/bana/bana/23322.m3u8
+https://starshare.live/live/bana/bana/23322.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrfbIeT2a4i8UPVMikxgYDpxSyeAJ0IxA7w&s" group-title="KANNADA",Zee kannada HD
 #https://la.drmlive.au/tp/zee-zeekannada.m3u8
-https://starshare.live:443/live/bana/bana/9453.m3u8
+https://starshare.live/live/bana/bana/9453.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-kannada-1674468265423.png" group-title="KANNADA",Colors kannada HD
 #https://live.drmlive-02.workers.dev/yupptv/premium/colorskannadahd.m3u8
-#https://starshare.live:443/live/bana/bana/23323.m3u8
-https://drmlive.in/voot/757.m3u8
+#https://drmlive.in/voot/757.m3u8
+https://starshare.live/live/bana/bana/23323.m3u8
