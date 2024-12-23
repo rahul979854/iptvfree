@@ -201,7 +201,7 @@ https://starshare.live:443/live/bana/bana/23791.m3u8
 https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
-https://zee5.drmlive.in/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8
+https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
 https://starshare.live:443/live/bana/bana/7065.m3u8
