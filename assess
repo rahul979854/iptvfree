@@ -94,7 +94,7 @@ http://starshare.live/live/04494/04494/409.m3u8
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA",JALSHA MOVIES HD
-http://starshare.live/live/04494/04494/98884.m3u8
+http://starshare.live:8080/live/bana/bana/98884.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BD: Color Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s" group-title="BANGLA",Color Bangla Cinema
 http://starshare.live/live/bana/bana/271038.m3u8
