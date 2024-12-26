@@ -169,6 +169,9 @@ http://starshare.live/live/bana/bana/4037.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png"group-title="Hindi Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
+#EXTINF:-1 tvg-id="mastiii" tvg-name="Hindi Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCcGKj4mfBSMzs_Z8GYeBJe8mx2coNdgh51Wm6jodiTN3GQroHnkx0__w&s=10" group-title="INDIA MUSIC",Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music",9XM
 https://starshare.live/live/bana/bana/7255.m3u8
 
