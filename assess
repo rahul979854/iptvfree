@@ -88,7 +88,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 http://starshare.live/live/bana/bana/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Bangla",Zee Bangla Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA",JALSHA MOVIES HD
@@ -161,13 +160,12 @@ https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
-#https://la.drmlive.au/tp/zee-tvhd_0.m3u8
-https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8|User-Agent=Mozilla/5.0
+#https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8|User-Agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Hindi",Zee tv HD
-#https://la.drmlive.au/tp/zee-zeetvhd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
+https://la.drmlive.au/tp/zee-zeetvhd.m3u8
+#https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
@@ -208,14 +206,12 @@ https://starshare.live/live/bana/bana/153.m3u8
 https://starshare.live/live/bana/bana/23791.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
-#https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
+#https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
-#https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
+#https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
 https://starshare.live/live/bana/bana/7065.m3u8
@@ -244,9 +240,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movies",Zee Action
-#https://la.drmlive.au/tp/zee-zeeaction.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
+#https://live.drmlive-02.workers.dev/zee/zee-action.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -261,17 +256,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://starshare.live/live/bana/bana/194.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="INDIA HINDI MOVIES",& xplor(FHD)
-#https://la.drmlive.au/tp/zee-209.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+https://la.drmlive.au/tp/zee-209.m3u8
+#https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="starmovies" tvg-name="IN: StarMovies (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPez9Wj2gknrCBW3YLifUanwV7NAbIbs9X5g&usqp=CAU" group-title="MOVIES",Star Movies (FHD)
 http://starshare.live/live/bana/bana/979.m3u8
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="",&Prive HD
-#https://la.drmlive.au/tp/zee-9z5543514.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+https://la.drmlive.au/tp/zee-9z5543514.m3u8
+#https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="zeepicchar.in" tvg-name="ZEE Picchar (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-HKtUWqFWB-hsCOP2JFjBHBKGLl1e2zvdw&usqp=CAU" group-title="KANNADA",ZEE Picchar HD
 https://starshare.live/live/bana/bana/9452.m3u8
@@ -280,7 +273,6 @@ https://starshare.live/live/bana/bana/9452.m3u8
 https://starshare.live/live/bana/bana/23322.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrfbIeT2a4i8UPVMikxgYDpxSyeAJ0IxA7w&s" group-title="KANNADA",Zee kannada HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://la.drmlive.au/tp/zee-zeekannada.m3u8
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-kannada-1674468265423.png" group-title="KANNADA",Colors kannada HD
