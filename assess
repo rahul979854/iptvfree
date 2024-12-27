@@ -160,7 +160,8 @@ https://drmlive.in/voot/144.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV Hd
 #https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-https://la.drmlive.au/tp/sliv-sony.m3u8
+#https://la.drmlive.au/tp/sliv-sony.m3u8
+https://starshare.live/live/bana/bana/98854.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/sonysab.png"group-title="Hindi",Sony Sab Hd
 #https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
@@ -243,7 +244,8 @@ https://live.drmlive-02.workers.dev/sliv/max2.m3u8
 https://drmlive.in/voot/1477.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+https://live.drmlive-02.workers.dev/sliv/pix.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies 
 https://starshare.live/live/bana/bana/968.m3u8
