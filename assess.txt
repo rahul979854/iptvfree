@@ -43,7 +43,7 @@ http://starshare.live/live/bana/bana/215.m3u8
 https://starshare.live/live/bana/bana/186627.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2." tvg-logo="http://stariptv.fun/logos/btsport2hd.png" group-title="RUGBY",TNT SPORT 2
-https://starshare.live/live/bana/bana/23565.m3u8
+https://starshare.live/live/bana/bana/186628.m3u8
 
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="TNT Sports 3 FHD" tvg-logo="http://stariptv.fun/logos/btsport3hd.png" group-title="CRICKET",TNT Sports 3 
 https://starshare.live/live/bana/bana/148090.m3u8
