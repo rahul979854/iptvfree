@@ -58,22 +58,22 @@ https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_Hindi.png"group-title="Information",Discovery Hindi HD
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+https://starshare.live/live/bana/bana/157993.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_Bengali.png"group-title="Information",Discovery Bangla HD
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+https://starshare.live/live/bana/bana/406.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Information",Discovery Asia HD 
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+https://starshare.live/live/bana/bana/143086.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information",Animal Planet Hd
-http://starshare.live/live/04494/04494/182.m3u8
+http://starshare.live/live/bana/bana/182.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="ZEE5",ZEE Bangla HD
 https://la.drmlive.au/tp/zee-zeebangla.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="BANGLA",Star Jalsha HD
-http://starshare.live/live/04494/04494/23218.m3u8
+http://starshare.live/live/bana/bana/8540.m3u8
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="BANGLA",Colors_Bengali_HD
 https://starshare.live/live/bana/bana/183.m3u8
@@ -82,7 +82,7 @@ https://starshare.live/live/bana/bana/183.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ruposhi%20Bangla.jpeg" group-title="Bangla",Ruposhi Bangla
-http://starshare.live/live/04494/04494/409.m3u8
+http://starshare.live/live/bana/bana/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Bangla",Zee Bangla Cinema
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
