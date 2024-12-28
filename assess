@@ -279,7 +279,7 @@ http://starshare.live/live/bana/bana/194.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="INDIA HINDI MOVIES",& xplor(FHD)
 #https://la.drmlive.au/tp/zee-209.m3u8
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8|User-Agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 
 #EXTINF:-1 tvg-id="starmovies" tvg-name="IN: StarMovies (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPez9Wj2gknrCBW3YLifUanwV7NAbIbs9X5g&usqp=CAU" group-title="MOVIES",Star Movies (FHD)
 http://starshare.live/live/bana/bana/979.m3u8
