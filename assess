@@ -179,12 +179,12 @@ https://live.drmlive-02.workers.dev/sliv/pal.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
-https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8|User-Agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
 #https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Hindi",Zee tv HD
 #https://la.drmlive.au/tp/zee-zeetvhd.m3u8
-https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8|User-Agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
@@ -226,7 +226,7 @@ https://starshare.live/live/bana/bana/23791.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
 #https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8|User-Agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
 #https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
@@ -263,7 +263,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movies",Zee Action
 #https://la.drmlive.au/tp/zee-zeeaction.m3u8
-https://live.drmlive-02.workers.dev/zee/zee-action.m3u8|User-Agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -289,10 +289,10 @@ https://live.drmlive-02.workers.dev/sliv/wah.m3u8
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="",&Prive HD
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8|User-Agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
-https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8|User-Agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
 #https://la.drmlive.au/tp/zee-zeecafehd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
