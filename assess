@@ -175,6 +175,9 @@ https://live.drmlive-02.workers.dev/sliv/sab.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
 https://live.drmlive-02.workers.dev/sliv/pal.m3u8
 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv",SONY WAH
+https://live.drmlive-02.workers.dev/sliv/wah.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg"group-title="Hindi",Sony Kal Hd
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
@@ -188,9 +191,6 @@ https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv",SONY WAH
-https://live.drmlive-02.workers.dev/sliv/wah.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
 https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
