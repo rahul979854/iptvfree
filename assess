@@ -296,7 +296,7 @@ https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8|User-Agent=Mozilla/5.0
 #https://la.drmlive.au/tp/zee-zeecafehd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
-https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8|User-Agent=Mozilla/5.0
+https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8 |User-Agent=Mozilla/5.0
 #https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
 
 
