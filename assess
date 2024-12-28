@@ -189,6 +189,13 @@ https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv",SONY WAH
+https://live.drmlive-02.workers.dev/sliv/wah.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
+https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
+#https://la.drmlive.au/tp/zee-zeecafehd.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png"group-title="Hindi Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
@@ -284,16 +291,9 @@ https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF:-1 tvg-id="starmovies" tvg-name="IN: StarMovies (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPez9Wj2gknrCBW3YLifUanwV7NAbIbs9X5g&usqp=CAU" group-title="MOVIES",Star Movies (FHD)
 http://starshare.live/live/bana/bana/979.m3u8
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv",SONY WAH
-https://live.drmlive-02.workers.dev/sliv/wah.m3u8
-
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="",&Prive HD
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
-https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
-#https://la.drmlive.au/tp/zee-zeecafehd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
