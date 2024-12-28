@@ -84,8 +84,8 @@ https://starshare.live/live/bana/bana/143086.m3u8
 http://starshare.live/live/bana/bana/182.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="ZEE5",ZEE Bangla HD
-#https://la.drmlive.au/tp/zee-zeebangla.m3u8
-https://starshare.live/live/bana/bana/98881.m3u8
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
+#https://starshare.live/live/bana/bana/98881.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="BANGLA",Star Jalsha HD
 http://starshare.live/live/bana/bana/8540.m3u8
@@ -100,8 +100,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 http://starshare.live/live/bana/bana/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Bangla",Zee Bangla Cinema
-#https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
-https://starshare.live/live/bana/bana/49615.m3u8
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
+#https://starshare.live/live/bana/bana/49615.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA",JALSHA MOVIES HD
 http://starshare.live:8080/live/bana/bana/425.m3u8
