@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Tata ipl" tvg-name="Tata ipl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboihtL2GYEwRrkF6_ArJmSP-w9ExH7LRMiQ&usqp=CAU" group-title="CRICKET",Tata ipl UHD
-https://live.drmlive-02.workers.dev/jc/2001.m3u8
+#https://live.drmlive-02.workers.dev/jc/2001.m3u8
+https://drmlive.in/voot/2001.m3u8
 
 #EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="Star Sports 1 Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPLxN9JyE1KeREoxGvI9JMBIJSWDDaMbb8U_527S4IMBaaNn42atIpdTI&s=10" group-title="CRICKET",Star Sports 1 Kannada Hd
 http://starshare.live/live/bana/bana/380977.m3u8
@@ -43,7 +44,8 @@ https://starshare.live/live/bana/bana/148090.m3u8
 http://starshare.live/live/bana/bana/124269.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
-https://live.drmlive-02.workers.dev/jc/122.m3u8
+#https://live.drmlive-02.workers.dev/jc/122.m3u8
+https://drmlive.in/voot/122.m3u8
 
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
 #https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
