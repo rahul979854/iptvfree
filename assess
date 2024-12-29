@@ -226,7 +226,8 @@ http://starshare.live/live/bana/bana/9488.m3u8
 https://starshare.live:443/live/bana/bana/375342.m3u8
 
 #EXTINF:-1 tvg-id="mtvbeatshd" tvg-name="MTV BEATS HD" tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="INDIA MUSIC",MTV BEATS HD
-https://starshare.live/live/bana/bana/153.m3u8
+#https://starshare.live/live/bana/bana/153.m3u8
+https://starshare.live/live/bana/bana/23792.m3u8
 
 #EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",MTV HD Plus
 https://starshare.live/live/bana/bana/23791.m3u8
