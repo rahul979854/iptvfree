@@ -157,7 +157,8 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 http://starshare.live/live/bana/bana/98855.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_PlusHD.png"group-title="Hindi",Star plus HD
-https://starshare.live/live/bana/bana/221.m3u8
+#https://starshare.live/live/bana/bana/221.m3u8
+https://starshare.live/live/bana/bana/98849.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
 #https://live.drmlive-02.workers.dev/jc/144.m3u8
@@ -284,7 +285,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: Star GOLD (FHD)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="INDIA HINDI MOVIES",Star GOLD (FHD)
-http://starshare.live/live/bana/bana/194.m3u8
+http://starshare.live/live/bana/bana/98858.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="INDIA HINDI MOVIES",& xplor(FHD)
 https://la.drmlive.au/tp/zee-209.m3u8
