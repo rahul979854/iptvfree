@@ -228,7 +228,8 @@ https://starshare.live/live/bana/bana/153.m3u8
 https://starshare.live/live/bana/bana/23791.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
-https://starshare.live:443/live/bana/bana/231.m3u8
+#https://starshare.live:443/live/bana/bana/231.m3u8
+https://zee5.drmlive.in/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
 https://starshare.live/live/bana/bana/230.m3u8
