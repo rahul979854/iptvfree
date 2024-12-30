@@ -6,6 +6,11 @@
 #https://botx.filesdl.in/dl/dlb.php/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X1pfNTVfWTRZMklfMjNfT1dGXzQ3X1lfNTVfVl80N19ORE0xTkRfMTFfNU1fMTVfSTFaVF8zMF80T0dKXzhfWkRWXzMwX01fMjhfXzExX18zNF9fODNfXzE1X0lfMzRfWkdWMkxfMjhfQjNfNjRfXzU1X3dfMjNfXzgzX0M5UV82NF9YTl82Ml9fODNfR0VfNDdfTV8xNV9BXzIzX0pUSXdMU1VfMjNfTUZSXzYyX1pTVV8yM19NRkoxXzkxX0dVXzQ3X01fMTVfQV80N19NXzE1X18xMV9fMjNfTURJMEpUSTVKVEl3VTI5MV82NF9HXzExX180N19NXzE1X0JJXzk5X1c1XzMwX185OV9TVV8yM19NRVIxWV81NV9KXzQ3X1pDVV8yM19NRTFfMjZfXzY0X181NV9fNDdfXzQ3X0pUSXdTRkZEWVcwXzQ3X01fMTVfQV8xN19NRF8xMV93XzgzX0M1XzY1X185OV8zWT0=
 https://botx.filesdl.in/dl/dlb.php/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X1pfNTVfWTRZMklfMjNfT1dGXzQ3X1lfNTVfVl80N19ORE0xTkRfMTFfNU1fMTVfSTFaVF8zMF80T0dKXzhfWkRWXzMwX01fMjhfXzExX18zNF9fODNfXzE1X0lfMzRfWkdWMkwyUjJfNDVfXzE1X0JfMzBfXzk5X0M5UV82NF9YTl82Ml9fODNfR0VfNDdfTV8xNV9BXzIzX0pUSXdMU1VfMjNfTUZSXzYyX1pTVV8yM19NRkoxXzkxX0dVXzQ3X01fMTVfQV80N19NXzE1X18xMV9fMjNfTURJMEpUSTVKVEl3SlRJNFNHXzQ3X18zNF9aR18zMF9fNDdfTV8xNV9CUFVfMzBfXzgzX18zNF9KVEl3UVVGRE1fNF80d0xURTVNXzMwX182NV9fNF9fODNfSE1fNDdfTV8xNV9BXzQ3X01fMzBfSV80N19NXzE1X0JVWVcxXzg3X185MV9DVV8yM19PU1VfMjNfTUVSMVlXd180N19NXzE1X0JCXzY0X1dSXzg3X185MV9fMjNfVV8yM19NRlZfMzRfUTNWMEpUSXdVMjkxXzY0X0dfMTFfXzQ3X01fMTVfQk5fOTFfM1pfODdfWlNVXzIzX01FXzhfRVVfNTVfXzQ3X3dKVEl3TVRBNE1IQV80N19NXzE1X0JYUlVJXzY1X1JFd18zNF9fOTFfV182NV8y
 
+#EXTINF:-1 tvg-id="Tata ipl" tvg-name="Tata ipl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboihtL2GYEwRrkF6_ArJmSP-w9ExH7LRMiQ&usqp=CAU" group-title="CRICKET",Tata ipl UHD
+#https://live.drmlive-02.workers.dev/jc/2001.m3u8
+https://drmlive.in/voot/2001.m3u8
+
+
 #EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="Star Sports 1 Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPLxN9JyE1KeREoxGvI9JMBIJSWDDaMbb8U_527S4IMBaaNn42atIpdTI&s=10" group-title="CRICKET",Star Sports 1 Kannada Hd
 http://starshare.live/live/bana/bana/380977.m3u8
 
@@ -30,14 +35,16 @@ https://starshare.live/live/bana/bana/238.m3u8
 https://starshare.live/live/bana/bana/148801.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
-http://starshare.live/live/bana/bana/2494.m3u8
+#http://starshare.live/live/bana/bana/2494.m3u8
+https://drmlive.in/sports/Astro/
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="Sports",Eurosport HD
 #EXTVLCOPT:http-user-agent= R
 https://starshare.live/live/bana/bana/216.m3u8
 
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",CRI: WILLOW CRICKET HD
-http://starshare.live/live/bana/bana/215.m3u8
+#http://starshare.live/live/bana/bana/215.m3u8
+https://drmlive.in/sports/Willow/
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="RUGBY",TNT SPORT 1
 https://starshare.live/live/bana/bana/186627.m3u8
@@ -229,17 +236,21 @@ https://starshare.live/live/bana/bana/23791.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
 #https://starshare.live:443/live/bana/bana/231.m3u8
-https://zee5.drmlive.in/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8
+https://drmlive.in/zee5/play.php?id=0-9-tvpictureshd
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
-https://starshare.live/live/bana/bana/230.m3u8
+#https://starshare.live/live/bana/bana/230.m3u8
+https://drmlive.in/zee5/play.php?id=0-9-zeecinemahd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
-https://starshare.live/live/bana/bana/7065.m3u8
+#https://starshare.live/live/bana/bana/7065.m3u8
+https://drmlive.in/zee5/play.php?id=0-9-zeeanmolcinema
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png"group-title="Hindi Movies",Sony Max HD
 #https://starshare.live/live/bana/bana/151.m3u8
 https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png"group-title="Hindi Movies",Sony Max 2 HD
 #https://starshare.live/live/bana/bana/973.m3u8
@@ -296,7 +307,6 @@ https://starshare.live/live/bana/bana/23322.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrfbIeT2a4i8UPVMikxgYDpxSyeAJ0IxA7w&s" group-title="KANNADA",Zee kannada HD
 #https://la.drmlive.au/tp/zee-zeekannada.m3u8
 https://starshare.live/live/bana/bana/9453.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-kannada-1674468265423.png" group-title="KANNADA",Colors kannada HD
 #https://live.drmlive-02.workers.dev/yupptv/premium/colorskannadahd.m3u8
