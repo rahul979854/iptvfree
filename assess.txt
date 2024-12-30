@@ -118,13 +118,15 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://starshare.live/live/bana/bana/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Bangla",Zee Bangla Cinema
-https://starshare.live/live/bana/bana/49615.m3u8
+#https://starshare.live/live/bana/bana/49615.m3u8
+https://drmlive.in/zee5/play.php?id=0-9-zeebangla
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="BANGLA",JALSHA MOVIES HD
 https://starshare.live/live/bana/bana/425.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BD: Color Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s" group-title="BANGLA",Color Bangla Cinema
-http://starshare.live/live/bana/bana/271038.m3u8
+#http://starshare.live/live/bana/bana/271038.m3u8
+https://drmlive.in/zee5/play.php?id=0-9-zeebanglacinema
 
 #EXTINF:-1 tvg-id="34" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali",SONY AATH
 #EXTVLCOPT:http-user-agent= R
@@ -170,11 +172,12 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/b2b6e3e4-af46-4b50-8e02-054b36c23519/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
-https://starshare.live/live/bana/bana/199.m3u8
+#https://starshare.live/live/bana/bana/199.m3u8
+https://drmlive.in/yupptvpremium/play.php?id=Star-Bharat-AU
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_PlusHD.png"group-title="Hindi",Star plus HD
-https://starshare.live/live/bana/bana/221.m3u8
-
+#https://starshare.live/live/bana/bana/221.m3u8
+https://drmlive.in/yupptvpremium/play.php?id=Star-Plus-AU
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
 #https://live.drmlive-02.workers.dev/jc/144.m3u8
@@ -194,10 +197,12 @@ https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://starshare.live/live/bana/bana/145.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
-https://starshare.live/live/bana/bana/232.m3u8
+#https://starshare.live/live/bana/bana/232.m3u8
+https://drmlive.in/zee5/play.php?id=0-9-tvhd_0
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Hindi",Zee tv HD
-https://starshare.live/live/bana/bana/161.m3u8
+#https://starshare.live/live/bana/bana/161.m3u8
+https://drmlive.in/zee5/play.php?id=0-9-zeetvhd
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
