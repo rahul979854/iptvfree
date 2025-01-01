@@ -311,7 +311,7 @@ https://la.drmlive.au/tp/zee-9z5543514.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
 #https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
-https://la.drmlive.au/tp/zee-channel_2105335046.m3u8|User-Agent=Mozilla/5.0
+https://la.drmlive.au/tp/zee-channel_2105335046.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/master.m3u8?hdntl=exp=1735478382~acl=%2f*~data=hdntl~hmac=91a41a68630a98df0a65d5b178b9b6bbdd2659165a2f4e322469db56cf3ba862
 
 #EXTINF:-1 tvg-id="zeepicchar.in" tvg-name="ZEE Picchar (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-HKtUWqFWB-hsCOP2JFjBHBKGLl1e2zvdw&usqp=CAU" group-title="KANNADA",ZEE Picchar HD
