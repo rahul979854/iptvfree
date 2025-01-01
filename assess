@@ -86,8 +86,9 @@ https://starshare.live/live/bana/bana/143086.m3u8
 http://starshare.live/live/bana/bana/182.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="ZEE5",ZEE Bangla HD
-https://la.drmlive.au/tp/zee-zeebangla.m3u8
+#https://la.drmlive.au/tp/zee-zeebangla.m3u8
 #https://starshare.live/live/bana/bana/98881.m3u8
+https://drmlive.in/voot/756.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="BANGLA",Star Jalsha HD
 http://starshare.live/live/bana/bana/8540.m3u8
@@ -217,8 +218,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://starshare.live/live/bana/bana/7258.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music",E24
-#https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-https://starshare.live/live/bana/bana/9487.m3u8
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#https://starshare.live/live/bana/bana/9487.m3u8
 
 #EXTINF:-1 tvg-id="mastiii" tvg-name="Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="INDIA MUSIC",Mastiii
 #http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=127260&extension=ts&play_token=YssGTmwnmO
@@ -233,10 +234,12 @@ https://starshare.live:443/live/bana/bana/375342.m3u8
 
 #EXTINF:-1 tvg-id="mtvbeatshd" tvg-name="MTV BEATS HD" tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="INDIA MUSIC",MTV BEATS HD
 #https://starshare.live/live/bana/bana/153.m3u8
-https://starshare.live/live/bana/bana/23792.m3u8
+#https://starshare.live/live/bana/bana/23792.m3u8
+https://live.drmlive-02.workers.dev/jc/753.m3u8
 
 #EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",MTV HD Plus
-https://starshare.live/live/bana/bana/23791.m3u8
+#https://starshare.live/live/bana/bana/23791.m3u8
+https://live.drmlive-02.workers.dev/jc/1145.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
 https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
