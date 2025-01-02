@@ -16,8 +16,8 @@ http://starshare.live/live/bana/bana/9397.m3u8
 http://starshare.live/live/bana/bana/239.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="CRICKET",Star Sport 1 HINDI HD
-#http://starshare.live/live/bana/bana/9399.m3u8
-https://starshare.live/live/bana/bana/211.m3u8
+http://starshare.live/live/bana/bana/9399.m3u8
+#https://starshare.live/live/bana/bana/211.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="INDIA SPORTS",Star Sports Select 1 HD
 http://starshare.live/live/bana/bana/238.m3u8
