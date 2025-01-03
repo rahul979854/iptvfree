@@ -1,5 +1,4 @@
 #EXTM3U
-x-tvg-url="https://whythishome.github.io/epg/guides/watch.tataplay.com.xml.gz"
 
 #EXTINF:-1 tvg-id="Tata ipl" tvg-name="Tata ipl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboihtL2GYEwRrkF6_ArJmSP-w9ExH7LRMiQ&usqp=CAU" group-title="CRICKET",Tata ipl UHD
 #https://live.drmlive-02.workers.dev/jc/2001.m3u8
