@@ -326,8 +326,8 @@ https://la.drmlive.au/tp/zee-channel_2105335046.m3u8|User-Agent=Mozilla/5.0 (Lin
 #https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/master.m3u8?hdntl=exp=1735478382~acl=%2f*~data=hdntl~hmac=91a41a68630a98df0a65d5b178b9b6bbdd2659165a2f4e322469db56cf3ba862
 
 #EXTINF:-1 tvg-id="zeepicchar.in" tvg-name="ZEE Picchar (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-HKtUWqFWB-hsCOP2JFjBHBKGLl1e2zvdw&usqp=CAU" group-title="KANNADA",ZEE Picchar HD
-#https://starshare.live/live/bana/bana/9452.m3u8
-https://updatesbyrahul.site/zeepic.m3u8
+https://starshare.live/live/bana/bana/9452.m3u8
+
 
 #EXTINF:-1 tvg-id="starsuvarnahd.in" tvg-name="STAR-SUVARNA HD" tvg-logo="https://indiantvinfo.com/media/2023/03/Star-Suvarna-New-Logo.png" group-title="KANNADA",STAR SUVARNA HD
 https://starshare.live/live/bana/bana/23322.m3u8
