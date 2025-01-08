@@ -6,8 +6,8 @@ https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 #https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Tata ipl" tvg-name="Tata ipl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboihtL2GYEwRrkF6_ArJmSP-w9ExH7LRMiQ&usqp=CAU" group-title="CRICKET",Tata ipl UHD
-#https://live.drmlive-02.workers.dev/jc/2001.m3u8
-https://drmlive.in/voot/2001.m3u8
+https://live.drmlive-02.workers.dev/jc/2001.m3u8
+#https://drmlive.in/voot/2001.m3u8
 
 #EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="Star Sports 1 Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPLxN9JyE1KeREoxGvI9JMBIJSWDDaMbb8U_527S4IMBaaNn42atIpdTI&s=10" group-title="CRICKET",Star Sports 1 Kannada Hd
 http://starshare.live/live/bana/bana/380977.m3u8
@@ -52,8 +52,8 @@ https://starshare.live/live/bana/bana/148090.m3u8
 http://starshare.live/live/bana/bana/124269.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
-#https://live.drmlive-02.workers.dev/jc/122.m3u8
-https://drmlive.in/voot/122.m3u8
+https://live.drmlive-02.workers.dev/jc/122.m3u8
+#https://drmlive.in/voot/122.m3u8
 
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
 #https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
@@ -101,7 +101,8 @@ https://starshare.live:443/live/bana/bana/198.m3u8
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="BANGLA",Colors_Bengali_HD
 #https://starshare.live/live/bana/bana/183.m3u8
-https://drmlive.in/voot/756.m3u8
+#https://drmlive.in/voot/756.m3u8
+https://live.drmlive-02.workers.dev/jc/756.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -175,9 +176,9 @@ https://starshare.live:443/live/bana/bana/199.m3u8
 https://starshare.live/live/bana/bana/167.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
-#https://live.drmlive-02.workers.dev/jc/144.m3u8
+https://live.drmlive-02.workers.dev/jc/144.m3u8
 #https://starshare.live/live/bana/bana/219.m3u8
-https://drmlive.in/voot/144.m3u8
+#https://drmlive.in/voot/144.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV Hd
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -272,9 +273,9 @@ https://live.drmlive-02.workers.dev/sliv/maxhd.m3u8
 https://live.drmlive-02.workers.dev/sliv/max2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
-#https://live.drmlive-02.workers.dev/jc/1477.m3u8
+https://live.drmlive-02.workers.dev/jc/1477.m3u8
 #https://starshare.live/live/bana/bana/98908.m3u8
-https://drmlive.in/voot/1477.m3u8
+#https://drmlive.in/voot/1477.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 #https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
@@ -338,4 +339,5 @@ https://la.drmlive.au/tp/zee-zeekannada.m3u8|User-Agent=Mozilla/5.0 (Linux; Andr
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-kannada-1674468265423.png" group-title="KANNADA",Colors kannada HD
 #https://live.drmlive-02.workers.dev/yupptv/premium/colorskannadahd.m3u8
 #https://starshare.live/live/bana/bana/23323.m3u8
-https://drmlive.in/voot/757.m3u8
+#https://drmlive.in/voot/757.m3u8
+https://live.drmlive-02.workers.dev/jc/757.m3u8
