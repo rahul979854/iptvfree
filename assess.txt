@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-id="movies" tvg-name="IN: PUSHPA 2 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGi-dG-65qVPgLSB8__URxYhO18ksevzl6j_bdUo7NBumhC68zEMU-n1g&s" group-title="MOVIES",PUSHPA 2 4K
 #https://botdrivea.filesdl.in/gpdl.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBQY3Y2ZHhpYWlHQktXenpGaXhsVHVBc2RmWU1hZHAyazNSU2hGdE16Y25kVTM3THEwT2RoM191MmVsd2FJa0JBP2tleT1hbkZHVlVORWFrVk1hMXB0WmxaVlVHeEZiblpJYm5keWQyeG1hMHhS
 #https://botdrivea.filesdl.in/gpdl.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBOTHNEZ3pQRmgtOGVlbTc2SzREZFZidndtYTR5NnVMS1dyNWVCbW4wdWh4WkxVWUFibm94VlIxa29OdHpzMVJnP2tleT1VekV5UVZkbGNFRjFZWEoyYjJFNFpYZG1UeTFWVm14TVZrZEdlV1JC
@@ -9,6 +11,19 @@ https://botx.filesdl.in/dl/dlb.php/?id=Xzk5X0hSMF84M19ITTZMXzIzXzl3XzY0X1dJXzY1X
 #EXTINF:-1 tvg-id="Tata ipl" tvg-name="Tata ipl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboihtL2GYEwRrkF6_ArJmSP-w9ExH7LRMiQ&usqp=CAU" group-title="CRICKET",Tata ipl UHD
 #https://live.drmlive-02.workers.dev/jc/2001.m3u8
 https://drmlive.in/voot/2001.m3u8
+
+#EXTINF:-1 tvg-id="movies" tvg-name="IN: Fateh 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hE924Bo1FFLqRHiqwRFO1UhKtcADFwh-T5aVsB_O2TKPF4zuqKW-seE&s=10" group-title="MOVIES",Fateh 4K
+https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBQTWJFTExDRy1FWGtxbEhwVnRSMW9DUkNoOVhzUU85alNqRFJnanI5MVNpQm4yN3V4WGxVOTZTcThJeWo4YjFBP2tleT1Oamd3YmsxaVUwaDBOemg1V1ZWclJXRlZSamhuYW0xSldWUXpWRzVC
+
+
+#EXTINF:-1 tvg-id="movies" tvg-name="IN: Game changer 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLORc_CM3uLPCm7UCiZvDqe5RObSUUDH0s5EOCeXoyvJUXmAOgJVTi_w&s=10" group-title="MOVIES",Game Changer 4K
+https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBPcmlOVDZjVW4wTGxFdmlsM1R5R1RUNW41bjdIVDRVWjg1ZV91WWd5enJlQ1JnS2FMWFpGM1BJd0hNNW1rUnBRP2tleT1lRkJsVDBkVlVubE9URUkyTWxSNlltaEthRUpPU0MxNVp6WmpiMlJC
+
+
+#EXTINF:-1 tvg-id="movies" tvg-name="IN: UI 4K " tvg-logo="https://encrhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ_dmbHj-KB_jKHn9shWgV_PrVwHO3ybeJRsiR9Jik5rjCk4NK0BiMHTg&s=10ypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGi-dG-65qVPgLSB8__URxYhO18ksevzl6j_bdUo7NBumhC68zEMU-n1g&s" group-title="MOVIES",UI 4K
+https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBPTEV2QThucmZUWGg0elUtcFVNU055RmxRS3NEdVNvZmtqb0g5UjhQMTlWaW9WYU9feHFaOW1TOEZEQlBqaVJRP2tleT1UbEJtTWtOTGEyNWpaVGRzVTFaalduVlFObWxWVkhSM2RGcHFXbFZu
+
+
 
 
 #EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="Star Sports 1 Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPLxN9JyE1KeREoxGvI9JMBIJSWDDaMbb8U_527S4IMBaaNn42atIpdTI&s=10" group-title="CRICKET",Star Sports 1 Kannada Hd
