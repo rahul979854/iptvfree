@@ -20,7 +20,7 @@ https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9z
 https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBPcmlOVDZjVW4wTGxFdmlsM1R5R1RUNW41bjdIVDRVWjg1ZV91WWd5enJlQ1JnS2FMWFpGM1BJd0hNNW1rUnBRP2tleT1lRkJsVDBkVlVubE9URUkyTWxSNlltaEthRUpPU0MxNVp6WmpiMlJC
 
 
-#EXTINF:-1 tvg-id="movies" tvg-name="IN: UI 4K " tvg-logo="https://encrhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ_dmbHj-KB_jKHn9shWgV_PrVwHO3ybeJRsiR9Jik5rjCk4NK0BiMHTg&s=10ypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGi-dG-65qVPgLSB8__URxYhO18ksevzl6j_bdUo7NBumhC68zEMU-n1g&s" group-title="MOVIES",UI 4K
+#EXTINF:-1 tvg-id="movies" tvg-name="IN: UI 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzShABWKtE5zahAyu8kvZu0qj7SDtWHKMfTug7qS3f5pKa9dDQlDhNDgr&s=10" group-title="MOVIES",UI 4K
 https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBPTEV2QThucmZUWGg0elUtcFVNU055RmxRS3NEdVNvZmtqb0g5UjhQMTlWaW9WYU9feHFaOW1TOEZEQlBqaVJRP2tleT1UbEJtTWtOTGEyNWpaVGRzVTFaalduVlFObWxWVkhSM2RGcHFXbFZu
 
 
