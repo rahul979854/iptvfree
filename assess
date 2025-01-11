@@ -1,12 +1,5 @@
 #EXTM3U
 
-
-#EXTVLCOPT:http-user-agent=tpma/16.4 (Linux;Android 14) AndroidXMedia3/1.1.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-#EXTINF:-1 tvg-id="522" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Bengali", Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/manifest.mpd
-
 #EXTINF:-1 tvg-id="Sony event" tvg-name="Sony events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SZB3ssT6NnI78-q1DZZhMF6kTRer2jGWdYE4T1N0K7BFYHC95psDihI&s=10" group-title="CRICKET",Sony Events UHD
 https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 #https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
@@ -98,10 +91,12 @@ https://starshare.live/live/bana/bana/143086.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information",Animal Planet Hd
 http://starshare.live/live/bana/bana/182.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="ZEE5",ZEE Bangla HD
 #https://la.drmlive.au/tp/zee-zeebangla.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://starshare.live/live/bana/bana/435.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+#https://starshare.live/live/bana/bana/435.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="BANGLA",Star Jalsha HD
 #http://starshare.live/live/bana/bana/8540.m3u8
@@ -342,10 +337,12 @@ https://starshare.live/live/bana/bana/9452.m3u8
 #EXTINF:-1 tvg-id="starsuvarnahd.in" tvg-name="STAR-SUVARNA HD" tvg-logo="https://indiantvinfo.com/media/2023/03/Star-Suvarna-New-Logo.png" group-title="KANNADA",STAR SUVARNA HD
 https://starshare.live/live/bana/bana/23322.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrfbIeT2a4i8UPVMikxgYDpxSyeAJ0IxA7w&s" group-title="KANNADA",Zee kannada HD
 #https://la.drmlive.au/tp/zee-zeekannada.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://starshare.live/live/bana/bana/9453.m3u8
-
+#https://starshare.live/live/bana/bana/9453.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-kannada-1674468265423.png" group-title="KANNADA",Colors kannada HD
 #https://live.drmlive-02.workers.dev/yupptv/premium/colorskannadahd.m3u8
