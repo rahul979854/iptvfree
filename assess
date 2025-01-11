@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="522" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image /fetch/f_auto, fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu -west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel /imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1 .png" group-title="Bengali", Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/manifest.mpd
+#EXTINF:-1 tvg-id="ts503" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Zee5",Zee Cinema ᴴᴰ
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sony event" tvg-name="Sony events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SZB3ssT6NnI78-q1DZZhMF6kTRer2jGWdYE4T1N0K7BFYHC95psDihI&s=10" group-title="CRICKET",Sony Events UHD
 https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
