@@ -3,12 +3,12 @@
 
 
 #EXTINF:-1 tvg-id="movies" tvg-name="IN: PUSHPA 2 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGi-dG-65qVPgLSB8__URxYhO18ksevzl6j_bdUo7NBumhC68zEMU-n1g&s" group-title="MOVIES",PUSHPA 2 4K
-https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBQUy13eXIwYzZxRlYxXzdPSmNMWXVnUWhvWEs3ZlhRaVAxYmZYVnQzcGQ0Mmhvd2NzS2hzT01fRXNpRl9GWFpBP2tleT1XRUpOUVhKQ2NWRmFhRkUwUjNsbE0zVndTVGhOTWsxUGFIaDBSMmxC
+https://f9rw3r.cfglobalcdn.com/silverlight/secip/198295/136308/t3AtVK0QSVMetfMzfGQGbg/MTAzLjg5LjIzMi4xNw==/1736718161/hls-vod-s0013/flv/api/files/videos/2023/10/21/1697896860qwkfr.mp4.m3u8
 
 
 
 #EXTINF:-1 tvg-id="movies" tvg-name="IN: Fateh 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hE924Bo1FFLqRHiqwRFO1UhKtcADFwh-T5aVsB_O2TKPF4zuqKW-seE&s=10" group-title="MOVIES",Fateh 4K
-https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBQTWJFTExDRy1FWGtxbEhwVnRSMW9DUkNoOVhzUU85alNqRFJnanI5MVNpQm4yN3V4WGxVOTZTcThJeWo4YjFBP2tleT1Oamd3YmsxaVUwaDBOemg1V1ZWclJXRlZSamhuYW0xSldWUXpWRzVC
+https://ft5gre.cfglobalcdn.com/silverlight/secip/198295/136308/_gDWk060UKJQoGE-1dzJ7g/MTAzLjg5LjIzMi4xNw==/1736718972/hls-vod-s0011/flv/api/files/videos/2024/01/10/1704884799gnuc0.mp4.m3u8
 
 
 #EXTINF:-1 tvg-id="movies" tvg-name="IN: Game changer 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLORc_CM3uLPCm7UCiZvDqe5RObSUUDH0s5EOCeXoyvJUXmAOgJVTi_w&s=10" group-title="MOVIES",Game Changer 4K
