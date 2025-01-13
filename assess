@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="fancode event" tvg-name="fancode events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SZB3ssT6NnI78-q1DZZhMF6kTRer2jGWdYE4T1N0K7BFYHC95psDihI&s=10" group-title="CRICKET",Fancode Events UHD
+https://buddyxiptv.com/fancode/global/primary/114515_english_hls_4697ta-di/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Sony event" tvg-name="Sony events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SZB3ssT6NnI78-q1DZZhMF6kTRer2jGWdYE4T1N0K7BFYHC95psDihI&s=10" group-title="CRICKET",Sony Events UHD
 https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 #https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
@@ -41,7 +45,8 @@ http://starshare.live/live/bana/bana/216.m3u8
 http://starshare.live/live/bana/bana/215.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="RUGBY",TNT SPORT 1
-https://starshare.live/live/bana/bana/186627.m3u8
+#https://starshare.live/live/bana/bana/186627.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2." tvg-logo="http://stariptv.fun/logos/btsport2hd.png" group-title="RUGBY",TNT SPORT 2
 https://starshare.live/live/bana/bana/186628.m3u8
