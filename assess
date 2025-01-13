@@ -23,7 +23,6 @@ http://starshare.live/live/bana/bana/380977.m3u8
 #http://starshare.live/live/bana/bana/124281.m3u8
 #https://starshare.live/live/bana/bana/148.m3u8
 #https://github.com/rahul979854/Channels/raw/main/StarSport1Hd.m3u8
-https://off6.jismhaitokia.com:999/hls/star1in.m3u8?md5=FtshKSwpUair7sG50-Ix-Q&expires=1736800883
 https://off6.jismhaitokia.com:999/hls/star1in.m3u8?md5=ETOfSBqQv_7ncYvwA6L6uw&expires=1736805985
 https://off6.jismhaitokia.com:999/hls/star1in.m3u8?md5=gXIisXLnHg9IJXufFkoF0g&expires=1736805910
 https://d2.jisdeshmaiganga.com:999/hls/star1in.m3u8?md5=veyJj8VghnRvzdb5Q7ClGA&expires=1736805599
@@ -37,7 +36,7 @@ http://starshare.live/live/bana/bana/239.m3u8
 #http://starshare.live/live/bana/bana/9399.m3u8
 https://starshare.live/live/bana/bana/211.m3u8
 #https://github.com/rahul979854/Channels/raw/main/StarSportsHindi.m3u8
-#https://d3.jisdeshmaiganga.com:999/hls/starhindi.m3u8?md5=am7oWIZlpN7XLp5fquy4Vg&expires=1736797490
+
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="INDIA SPORTS",Star Sports Select 1 HD
 http://starshare.live/live/bana/bana/238.m3u8
@@ -49,15 +48,15 @@ http://starshare.live/live/bana/bana/148801.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
 #http://starshare.live/live/bana/bana/2494.m3u8
-#https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
-https://d7.jisdeshmaiganga.com:999/hls/fox501.m3u8?md5=SE0CD-KPjNGgcu5RnLmtxg&expires=1736798414
+https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://www.logotypes101.com/logos/921/A0E9CD5BCC9176DE238B630F5A474D6F/eurosporthd.png" group-title="INDIA SPORTS",EUROSPORTS HD
 http://starshare.live/live/bana/bana/216.m3u8
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",WILLOW CRICKET HD
-#http://starshare.live/live/bana/bana/215.m3u8
-https://d1.jisdeshmaiganga.com:999/hls/willowusa.m3u8?md5=mgzNA9wwMi0ms4Hm-4IZNw&expires=1736798216
+http://starshare.live/live/bana/bana/215.m3u8
+
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRI Extra HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",WILLOW CRI Extra HD
 https://d5.jisdeshmaiganga.com:999/hls/willowextra.m3u8?md5=LIhiv3kz2_g8kk-y9DMgbQ&expires=1736798326
@@ -79,8 +78,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://starshare.live/live/bana/bana/186631.m3u8?|drmScheme=clearkey&drmLicense=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
-#http://starshare.live/live/bana/bana/124269.m3u8
-https://d4.jisdeshmaiganga.com:999/hls/skyscric.m3u8?md5=DjPHEhCGpW9lHucTpAC0kw&expires=1736798103
+http://starshare.live/live/bana/bana/124269.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
 https://live.drmlive-02.workers.dev/jc/122.m3u8
