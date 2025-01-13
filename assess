@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-id="Cricbuzz event" tvg-name="Cricbuzz events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlr9akJgC4lGRPCAgNKdBFyM0CfIkIESO77AH2TkWz0ZPIurz439yDu_8&s=10" group-title="CRICKET",Cricbuzz Events UHD
 https://uselector.cdn.intigral-ott.net/CRL2/CRL2.isml/manifest.mpd?|drmScheme=clearkey&drmLicense=77889c7295e1f113852aa6030242b8e4:ec8c522d46888a15ff6533aa28ccd7f5
 
-
 #EXTINF:-1 tvg-id="fancode event" tvg-name="fancode events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6OTWwSCPP67REB8IDYWuZww9j_tvvanCYA&usqp=CAU" group-title="CRICKET",Fancode Events UHD
 https://buddyxiptv.com/fancode/global/primary/114515_english_hls_4697ta-di/index.m3u8
 
@@ -273,12 +272,10 @@ https://live.drmlive-02.workers.dev/jc/1145.m3u8
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
 #https://la.drmlive.au/tp/zee-zeecinemahd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd?|drmScheme=clearkey&drmLicense=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
 https://starshare.live/live/bana/bana/7065.m3u8
