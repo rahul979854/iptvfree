@@ -23,40 +23,38 @@ http://starshare.live/live/bana/bana/380977.m3u8
 #http://starshare.live/live/bana/bana/124281.m3u8
 #https://starshare.live/live/bana/bana/148.m3u8
 https://github.com/rahul979854/Channels/raw/main/StarSport1Hd.m3u8
-#http://atg100.xyz/live/UL33K17/SYC4T9D/1090635.m3u8
+
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 Hd" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-1021-j5nj3c68-v1%2FimageContent-1021-j5nj3c68-m1.png&w=256&q=75" group-title="CRICKET",STAR SPORTS 2 Hd
 #http://starshare.live/live/bana/bana/239.m3u8
-#https://github.com/rahul979854/Channels/raw/main/StarSport2Hd.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/1090637.m3u8
+https://github.com/rahul979854/Channels/raw/main/StarSport2Hd.m3u8
+
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="CRICKET",Star Sport 1 HINDI HD
 #http://starshare.live/live/bana/bana/9399.m3u8
 #https://starshare.live/live/bana/bana/211.m3u8
-#https://github.com/rahul979854/Channels/raw/main/StarSportsHindi.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/1090636.m3u8
+https://github.com/rahul979854/Channels/raw/main/StarSportsHindi.m3u8
+
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="INDIA SPORTS",Star Sports Select 1 HD
 #http://starshare.live/live/bana/bana/238.m3u8
-#https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/1090639.m3u8
+https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
+
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="INDIA SPORTS",Star Sports Select 2 HD
 #http://starshare.live/live/bana/bana/148801.m3u8
-#https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/1090640.m3u8
+https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
 #http://starshare.live/live/bana/bana/2494.m3u8
-#https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/450008.m3u8
+https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://www.logotypes101.com/logos/921/A0E9CD5BCC9176DE238B630F5A474D6F/eurosporthd.png" group-title="INDIA SPORTS",EUROSPORTS HD
 http://starshare.live/live/bana/bana/216.m3u8
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",WILLOW CRICKET HD
 #http://starshare.live/live/bana/bana/215.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/1090644.m3u8
+https://github.com/rahul979854/Channels/raw/main/Willow%20cricketHd.m3u8
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRI Extra HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",WILLOW CRI Extra HD
 https://starshare.live/live/bana/bana/5040.m3u8
@@ -74,12 +72,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?|drmScheme=clearkey&drmLicense=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" group-title="Sports",TNT 5
-#https://starshare.live/live/bana/bana/186631.m3u8?|drmScheme=clearkey&drmLicense=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-http://atg100.xyz/live/UL33K17/SYC4T9D/311558.m3u8
+https://github.com/rahul979854/Channels/raw/main/TNTsports5Hd.m3u8?|drmScheme=clearkey&drmLicense=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
 #http://starshare.live/live/bana/bana/124269.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/17290.m3u8
+https://github.com/rahul979854/Channels/raw/main/SkySportsCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
 https://live.drmlive-02.workers.dev/jc/122.m3u8
@@ -119,14 +116,14 @@ https://starshare.live/live/bana/bana/143086.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Information",Animal Planet Hd
 #http://starshare.live/live/bana/bana/182.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/72168.m3u8
+https://github.com/rahul979854/Channels/raw/main/AnimalsPlanetHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="ZEE5",ZEE Bangla HD
 #https://la.drmlive.au/tp/zee-zeebangla.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://starshare.live/live/bana/bana/435.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-#https://github.com/rahul979854/Channels/raw/main/ZeeBanglaHd.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/34731.m3u8
+https://github.com/rahul979854/Channels/raw/main/ZeeBanglaHd.m3u8
+
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="BANGLA",Star Jalsha HD
 #http://starshare.live/live/bana/bana/8540.m3u8
@@ -347,7 +344,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: Star GOLD (FHD)" tvg-logo="https://ziplink.live/u/N2dEY" group-title="INDIA HINDI MOVIES",Star GOLD (FHD)
 #http://starshare.live/live/bana/bana/98858.m3u8
 #https://starshare.live/live/bana/bana/9375.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/1020175.m3u8
+https://github.com/rahul979854/Channels/raw/main/StarGoldHd.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="INDIA HINDI MOVIES",& xplor(FHD)
 #https://la.drmlive.au/tp/zee-209.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
@@ -357,7 +354,7 @@ https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8|User-Agent=Mozilla/5.
 #http://starshare.live/live/bana/bana/979.m3u8
 #https://starshare.live/live/bana/bana/98842.m3u8
 #https://starshare.live/live/bana/bana/9384.m3u8
-https://starshare.live:443/live/bana/bana/9384.m3u8
+https://github.com/rahul979854/Channels/raw/main/StarMoviesHd.m3u8
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="",&Prive HD
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
@@ -380,8 +377,8 @@ https://starshare.live/live/bana/bana/23322.m3u8
 #https://la.drmlive.au/tp/zee-zeekannada.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://starshare.live/live/bana/bana/9453.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd?|drmScheme=clearkey&drmLicense=50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f
-#https://github.com/rahul979854/Channels/raw/main/ZeeKannadaHd.m3u8
-http://atg100.xyz/live/UL33K17/SYC4T9D/171569.m3u8
+https://github.com/rahul979854/Channels/raw/main/ZeeKannadaHd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-kannada-1674468265423.png" group-title="KANNADA",Colors kannada HD
 #https://live.drmlive-02.workers.dev/yupptv/premium/colorskannadahd.m3u8
