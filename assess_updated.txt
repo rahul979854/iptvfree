@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="Tata ipl" tvg-name="Tata ipl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboihtL2GYEwRrkF6_ArJmSP-w9ExH7LRMiQ&usqp=CAU" group-title="CRICKET",Tata ipl UHD
 #https://live.drmlive-02.workers.dev/jc/2001.m3u8
-https://drmlive.in/voot/2001.m3u8&token=abc127
+https://live.drmlive-02.workers.dev/jc/2001.m3u8&token=abc127
 
 
 #EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="Star Sports 1 Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPLxN9JyE1KeREoxGvI9JMBIJSWDDaMbb8U_527S4IMBaaNn42atIpdTI&s=10" group-title="CRICKET",Star Sports 1 Kannada Hd
@@ -31,15 +31,14 @@ https://starshare.live/live/bana/bana/148801.m3u8&token=abc127
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
 http://starshare.live/live/bana/bana/2494.m3u8/&token=abc127
-#https://drmlive.in/sports/Astro/&token=abc127
+
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="Sports",Eurosport HD
 #EXTVLCOPT:http-user-agent= R
 https://starshare.live/live/bana/bana/216.m3u8&token=abc127
 
 #EXTINF:-1 tvg-id="92news.uk" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",CRI: WILLOW CRICKET HD
-#http://starshare.live/live/bana/bana/215.m3u8
-https://drmlive.in/sports/Willow/&token=abc127
+http://starshare.live/live/bana/bana/215.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 1" tvg-logo="http://stariptv.fun/logos/btsport1hd.png" group-title="RUGBY",TNT SPORT 1
 https://starshare.live/live/bana/bana/186627.m3u8&token=abc127
@@ -56,8 +55,7 @@ http://starshare.live/live/bana/bana/12.m3u8&token=abc127
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="Sports",Sports 18 1 HD
 #EXTVLCOPT:http-user-agent= R
 #https://live.drmlive-02.workers.dev/jc/122.m3u8
-#https://starshare.live/live/bana/bana/213049.m3u8
-https://drmlive.in/voot/122.m3u8&token=abc127
+#https://starshare.live/live/bana/bana/213049.m3u8&token=abc127
 
 
 #EXTINF:-1 tvg-id="81" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",SONY SPORTS TEN 1 HD
