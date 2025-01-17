@@ -30,8 +30,8 @@ https://starshare.live/live/bana/bana/238.m3u8&token=abc127
 https://starshare.live/live/bana/bana/148801.m3u8&token=abc127
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
-#http://starshare.live/live/bana/bana/2494.m3u8
-https://drmlive.in/sports/Astro/&token=abc127
+http://starshare.live/live/bana/bana/2494.m3u8/&token=abc127
+#https://drmlive.in/sports/Astro/&token=abc127
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="Sports",Eurosport HD
 #EXTVLCOPT:http-user-agent= R
