@@ -1,23 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-id="movies" tvg-name="IN: PUSHPA 2 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGi-dG-65qVPgLSB8__URxYhO18ksevzl6j_bdUo7NBumhC68zEMU-n1g&s" group-title="MOVIES",PUSHPA 2 4K
-
-
-
-
-#EXTINF:-1 tvg-id="movies" tvg-name="IN: Fateh 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hE924Bo1FFLqRHiqwRFO1UhKtcADFwh-T5aVsB_O2TKPF4zuqKW-seE&s=10" group-title="MOVIES",Fateh 4K
-
-
-
-#EXTINF:-1 tvg-id="movies" tvg-name="IN: Game changer 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLORc_CM3uLPCm7UCiZvDqe5RObSUUDH0s5EOCeXoyvJUXmAOgJVTi_w&s=10" group-title="MOVIES",Game Changer 4K
-https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBPcmlOVDZjVW4wTGxFdmlsM1R5R1RUNW41bjdIVDRVWjg1ZV91WWd5enJlQ1JnS2FMWFpGM1BJd0hNNW1rUnBRP2tleT1lRkJsVDBkVlVubE9URUkyTWxSNlltaEthRUpPU0MxNVp6WmpiMlJC
-
-
-#EXTINF:-1 tvg-id="movies" tvg-name="IN: UI 4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzShABWKtE5zahAyu8kvZu0qj7SDtWHKMfTug7qS3f5pKa9dDQlDhNDgr&s=10" group-title="MOVIES",UI 4K
-https://dlfiles.filesdl.in/zdownload.php?id=aHR0cHM6Ly9waG90b3MuZ29vZ2xlLmNvbS9zaGFyZS9BRjFRaXBPTEV2QThucmZUWGg0elUtcFVNU055RmxRS3NEdVNvZmtqb0g5UjhQMTlWaW9WYU9feHFaOW1TOEZEQlBqaVJRP2tleT1UbEJtTWtOTGEyNWpaVGRzVTFaalduVlFObWxWVkhSM2RGcHFXbFZu
-
 #EXTINF:-1 tvg-id="Tata ipl" tvg-name="Tata ipl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboihtL2GYEwRrkF6_ArJmSP-w9ExH7LRMiQ&usqp=CAU" group-title="CRICKET",Tata ipl UHD
 #https://live.drmlive-02.workers.dev/jc/2001.m3u8
 https://drmlive.in/voot/2001.m3u8
