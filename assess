@@ -292,8 +292,8 @@ https://github.com/rahul979854/Channels/raw/main/MtvBeatsHd.m3u8
 
 #EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",MTV HD Plus
 #https://starshare.live/live/bana/bana/23791.m3u8
-#https://live.drmlive-02.workers.dev/jc/1145.m3u8
-https://github.com/rahul979854/Channels/raw/main/MTVHd.m3u8
+https://live.drmlive-02.workers.dev/jc/1145.m3u8
+#https://github.com/rahul979854/Channels/raw/main/MTVHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
 #https://la.drmlive.au/tp/zee-tvpictureshd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
