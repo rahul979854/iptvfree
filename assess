@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Cricbuzz event" tvg-name="Cricbuzz events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlr9akJgC4lGRPCAgNKdBFyM0CfIkIESO77AH2TkWz0ZPIurz439yDu_8&s=10" group-title="CRICKET",Cricbuzz Events UHD
-https://uselector.cdn.intigral-ott.net/CRL2/CRL2.isml/manifest.mpd?|drmScheme=clearkey&drmLicense=77889c7295e1f113852aa6030242b8e4:ec8c522d46888a15ff6533aa28ccd7f5
+#https://uselector.cdn.intigral-ott.net/CRL2/CRL2.isml/manifest.mpd?|drmScheme=clearkey&drmLicense=77889c7295e1f113852aa6030242b8e4:ec8c522d46888a15ff6533aa28ccd7f5
+http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-id="fancode event" tvg-name="fancode events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6OTWwSCPP67REB8IDYWuZww9j_tvvanCYA&usqp=CAU" group-title="CRICKET",Fancode Events UHD
 https://buddyxiptv.com/fancode/global/primary/114515_english_hls_4697ta-di/index.m3u8
@@ -362,7 +363,8 @@ https://github.com/rahul979854/Channels/raw/main/AndXplorHd.m3u8
 #http://starshare.live/live/bana/bana/979.m3u8
 #https://starshare.live/live/bana/bana/98842.m3u8
 #https://starshare.live/live/bana/bana/9384.m3u8
-https://github.com/rahul979854/Channels/raw/main/StarMoviesHd.m3u8
+#https://github.com/rahul979854/Channels/raw/main/StarMoviesHd.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="",&Prive HD
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
