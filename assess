@@ -12,8 +12,9 @@ https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 #https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Tata ipl" tvg-name="Tata ipl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboihtL2GYEwRrkF6_ArJmSP-w9ExH7LRMiQ&usqp=CAU" group-title="CRICKET",Tata ipl UHD
-https://live.drmlive-02.workers.dev/jc/2001.m3u8
+#https://live.drmlive-02.workers.dev/jc/2001.m3u8
 #https://drmlive.in/voot/2001.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="Star Sports 1 Kannada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPLxN9JyE1KeREoxGvI9JMBIJSWDDaMbb8U_527S4IMBaaNn42atIpdTI&s=10" group-title="CRICKET",Star Sports 1 Kannada Hd
 http://starshare.live/live/bana/bana/380977.m3u8
@@ -210,9 +211,10 @@ https://github.com/rahul979854/Channels/raw/main/StarBharatHd.m3u8
 https://github.com/rahul979854/Channels/raw/main/StarPlusHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
-https://live.drmlive-02.workers.dev/jc/144.m3u8
+#https://live.drmlive-02.workers.dev/jc/144.m3u8
 #https://starshare.live/live/bana/bana/219.m3u8
 #https://drmlive.in/voot/144.m3u8
+https://github.com/rahul979854/Channels/raw/main/ColorHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV Hd
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -244,8 +246,9 @@ https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8|User-Agent=Mozilla/5.0 (L
 http://starshare.live/live/bana/bana/4037.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="zee",Zee Cafe HD
-https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+#https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://la.drmlive.au/tp/zee-zeecafehd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+https://github.com/rahul979854/Channels/raw/main/ZeeCafeHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png"group-title="Hindi Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -281,16 +284,18 @@ https://starshare.live:443/live/bana/bana/375342.m3u8
 #EXTINF:-1 tvg-id="mtvbeatshd" tvg-name="MTV BEATS HD" tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="INDIA MUSIC",MTV BEATS HD
 #https://starshare.live/live/bana/bana/153.m3u8
 #https://starshare.live/live/bana/bana/23792.m3u8
-https://live.drmlive-02.workers.dev/jc/753.m3u8
+#https://live.drmlive-02.workers.dev/jc/753.m3u8
+https://github.com/rahul979854/Channels/raw/main/MtvBeatsHd.m3u8
 
 #EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",MTV HD Plus
 #https://starshare.live/live/bana/bana/23791.m3u8
-https://live.drmlive-02.workers.dev/jc/1145.m3u8
+#https://live.drmlive-02.workers.dev/jc/1145.m3u8
+https://github.com/rahul979854/Channels/raw/main/MTVHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
 #https://la.drmlive.au/tp/zee-tvpictureshd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-
+#https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+https://github.com/rahul979854/Channels/raw/main/AndPicturesHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
 #https://la.drmlive.au/tp/zee-zeecinemahd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
@@ -309,9 +314,10 @@ https://live.drmlive-02.workers.dev/sliv/maxhd.m3u8
 https://live.drmlive-02.workers.dev/sliv/max2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
-https://live.drmlive-02.workers.dev/jc/1477.m3u8
+#https://live.drmlive-02.workers.dev/jc/1477.m3u8
 #https://starshare.live/live/bana/bana/98908.m3u8
 #https://drmlive.in/voot/1477.m3u8
+https://github.com/rahul979854/Channels/raw/main/ColorCineplexHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 #https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
@@ -356,12 +362,13 @@ https://github.com/rahul979854/Channels/raw/main/StarMoviesHd.m3u8
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="",&Prive HD
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+#https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+https://github.com/rahul979854/Channels/raw/main/AndPrideHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
-https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+#https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://la.drmlive.au/tp/zee-channel_2105335046.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-
+https://github.com/rahul979854/Channels/raw/main/AndFlixHd.m3u8
 
 #EXTINF:-1 tvg-id="zeepicchar.in" tvg-name="ZEE Picchar (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-HKtUWqFWB-hsCOP2JFjBHBKGLl1e2zvdw&usqp=CAU" group-title="KANNADA",ZEE Picchar HD
 https://github.com/rahul979854/Channels/raw/main/ZeePiccharHd.m3u8
