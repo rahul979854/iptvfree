@@ -78,8 +78,9 @@ https://github.com/rahul979854/Channels/raw/main/TNTsports5Hd.m3u8?|drmScheme=cl
 https://github.com/rahul979854/Channels/raw/main/SkySportsCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
-https://live.drmlive-02.workers.dev/jc/122.m3u8
+#https://live.drmlive-02.workers.dev/jc/122.m3u8
 #https://drmlive.in/voot/122.m3u8
+https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
 
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
 #https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
@@ -262,8 +263,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music",9XM
 https://starshare.live/live/bana/bana/7255.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/9x%20jalwa.jpeg"group-title="Hindi Music",9X Jalwa
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/9x%20jalwa.jpeg"group-title="Hindi Music",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Hindi Music" group-title="Hindi Music",B4U Music
@@ -337,7 +337,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movies",Zee Action
 #https://la.drmlive.au/tp/zee-zeeaction.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://live.drmlive-02.workers.dev/zee/zee-action.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+#https://live.drmlive-02.workers.dev/zee/zee-action.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
