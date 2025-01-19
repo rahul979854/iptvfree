@@ -5,7 +5,8 @@
 http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-id="fancode event" tvg-name="fancode events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6OTWwSCPP67REB8IDYWuZww9j_tvvanCYA&usqp=CAU" group-title="CRICKET",Fancode Events UHD
-https://buddyxiptv.com/fancode/global/primary/114515_english_hls_4697ta-di/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=4578&deviceMac=00:1A:79:41:70:15
+
 
 #EXTINF:-1 tvg-id="Sony event" tvg-name="Sony events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SZB3ssT6NnI78-q1DZZhMF6kTRer2jGWdYE4T1N0K7BFYHC95psDihI&s=10" group-title="CRICKET",Sony Events UHD
 https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
@@ -34,9 +35,9 @@ https://github.com/rahul979854/Channels/raw/main/StarSport2Hd.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="CRICKET",Star Sport 1 HINDI HD
 #http://starshare.live/live/bana/bana/9399.m3u8
-https://starshare.live/live/bana/bana/211.m3u8
+#https://starshare.live/live/bana/bana/211.m3u8
 #https://github.com/rahul979854/Channels/raw/main/StarSportsHindi.m3u8
-
+http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="INDIA SPORTS",Star Sports Select 1 HD
 #http://starshare.live/live/bana/bana/238.m3u8
