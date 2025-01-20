@@ -108,7 +108,8 @@ https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
 https://live.drmlive-02.workers.dev/sliv/bbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_Hindi.png"group-title="Information",Discovery Hindi HD
-https://starshare.live/live/bana/bana/157993.m3u8
+#https://starshare.live/live/bana/bana/157993.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=164&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_Bengali.png"group-title="Information",Discovery Bangla HD
 https://starshare.live/live/bana/bana/406.m3u8
@@ -239,14 +240,16 @@ https://live.drmlive-02.workers.dev/sliv/wah.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
-https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+#https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://la.drmlive.au/tp/zee-tvhd_0.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://github.com/rahul979854/Channels/raw/main/AndTvHd.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Hindi",Zee tv HD
 #https://la.drmlive.au/tp/zee-zeetvhd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+#https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://github.com/rahul979854/Channels/raw/main/ZeeTvHd.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
@@ -294,18 +297,19 @@ https://github.com/rahul979854/Channels/raw/main/MtvBeatsHd.m3u8
 
 #EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="INDIA MUSIC",MTV HD Plus
 #https://starshare.live/live/bana/bana/23791.m3u8
-https://live.drmlive-02.workers.dev/jc/1145.m3u8
-#https://github.com/rahul979854/Channels/raw/main/MTVHd.m3u8
+#https://live.drmlive-02.workers.dev/jc/1145.m3u8
+https://github.com/rahul979854/Channels/raw/main/MTVHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
 #https://la.drmlive.au/tp/zee-tvpictureshd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+#https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 #https://github.com/rahul979854/Channels/raw/main/AndPicturesHd.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
 #https://la.drmlive.au/tp/zee-zeecinemahd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd?|drmScheme=clearkey&drmLicense=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd?|drmScheme=clearkey&drmLicense=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol Cinema
 https://starshare.live/live/bana/bana/7065.m3u8
@@ -369,8 +373,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4578&deviceMac=00:1A:79:41:70
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="",&Prive HD
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
-#https://github.com/rahul979854/Channels/raw/main/AndPrideHd.m3u8
+#https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+https://github.com/rahul979854/Channels/raw/main/AndPrideHd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
 #https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
