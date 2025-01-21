@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV Hd
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv", Sony SAB HD
 https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv", Sony PAL
@@ -20,6 +17,8 @@ https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv", Sony WAH
 https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV Hd
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLiv", Sony MAX
 https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv", Sony MAX HD
