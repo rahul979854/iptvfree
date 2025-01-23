@@ -313,10 +313,10 @@ https://github.com/rahul979854/Channels/raw/main/MtvBeatsHd.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=174&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf13q_I9xpXRUOo2p94qrTXIOrdhF3fQ5skF_RcKGFg3r7nH4-l9g5WKX&s=10" group-title="Hindi Movies",& Pictures HD
-#https://la.drmlive.au/tp/zee-tvpictureshd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+#https://la.drmlive.au/tp/zee-tvpictureshd.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-#https://github.com/rahul979854/Channels/raw/main/AndPicturesHd.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=4578&deviceMac=00:1A:79:41:70:15
+https://github.com/rahul979854/Channels/raw/main/AndPicturesHd.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7BxNJm_3xWJ-WmXmD7jCpwukP6ZFhs1LeQ&usqp=CAU" group-title="ZEE5",ZEE Cinema HD
 #https://la.drmlive.au/tp/zee-zeecinemahd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
