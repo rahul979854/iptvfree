@@ -2,8 +2,7 @@
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SonyLiv", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv", Sony SAB HD
-#https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-https://sony247channels.akamaized.net/hls/live/2011749-b/SABHD/master.m3u8?hdnea=st=1737719597~exp=1737719897~acl=*~id=e89dd9da-c82c-4f0c-9d49-5d1fbb5d8f0c~hmac=ad9639ad126cd3768f88ab877e171474e0047bcb6f944bab6fd596481f7a8f2e&originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/8c820345-62e9-4ae7-be70-3a0c858d8d8e:SIN/master.m3u8&token=abc123
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv", Sony PAL
 https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv", Sony YAY
