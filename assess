@@ -402,7 +402,7 @@ https://github.com/rahul979854/Channels/raw/main/ZeePiccharHd.m3u8
 
 #EXTINF:-1 tvg-id="starsuvarnahd.in" tvg-name="STAR-SUVARNA HD" tvg-logo="https://indiantvinfo.com/media/2023/03/Star-Suvarna-New-Logo.png" group-title="KANNADA",STAR SUVARNA HD
 #https://github.com/rahul979854/Channels/raw/main/StarSuvarnaHd.m3u8
-http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155705&extension=ts&play_token=2NmwqSfSvk
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:C2:EB:42&stream=155705&extension=m3u8&play_token=2NmwqSfSvk
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLrfbIeT2a4i8UPVMikxgYDpxSyeAJ0IxA7w&s" group-title="KANNADA",Zee kannada HD
 #https://la.drmlive.au/tp/zee-zeekannada.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
