@@ -201,7 +201,8 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SqnD3wOHGfoGx7bT6zW8dPIUoptFcAatDunGp4nKuBzAOf4qe7ppxrk&s=10" group-title="Hindi",AAj Taak HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png" group-title="Hindi",India Today HD
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
