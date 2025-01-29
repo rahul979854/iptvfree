@@ -77,6 +77,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" group-title="Sports",TNT 5
 https://github.com/rahul979854/Channels/raw/main/TNTsports5Hd.m3u8?|drmScheme=clearkey&drmLicense=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 
+#EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" group-title="Sports",TNT 5
+http://line.dinott.com:80/play/live.php?mac=00:1A:79:74:99:55&stream=1595637&extension=m3u8&play_token=CUc7xfgKC4
+
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="SKY SPORTS",Sky Sports Cricket
 #http://starshare.live/live/bana/bana/124269.m3u8
 https://github.com/rahul979854/Channels/raw/main/SkySportsCricketHd.m3u8
