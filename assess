@@ -1,5 +1,7 @@
 #EXTM3U
 
+url-tvg="https://avkb.short.gy/tsepg.xml"
+
 #EXTINF:-1 tvg-id="Cricbuzz event" tvg-name="Cricbuzz events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlr9akJgC4lGRPCAgNKdBFyM0CfIkIESO77AH2TkWz0ZPIurz439yDu_8&s=10" group-title="CRICKET",Cricbuzz Events UHD
 #https://uselector.cdn.intigral-ott.net/CRL2/CRL2.isml/manifest.mpd?|drmScheme=clearkey&drmLicense=77889c7295e1f113852aa6030242b8e4:ec8c522d46888a15ff6533aa28ccd7f5
 http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=4578&deviceMac=00:1A:79:41:70:15
@@ -30,7 +32,7 @@ https://github.com/rahul979854/Channels/raw/main/StarSport1Hd.m3u8
 https://github.com/rahul979854/Channels/raw/main/StarSport2Hd.m3u8
 
 
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="CRICKET",Star Sport 1 HINDI HD
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="CRICKET",Star Sports 1 HINDI HD
 #http://starshare.live/live/bana/bana/9399.m3u8
 #https://starshare.live/live/bana/bana/211.m3u8
 https://github.com/rahul979854/Channels/raw/main/StarSportsHindi.m3u8
@@ -90,19 +92,19 @@ https://github.com/rahul979854/Channels/raw/main/SkySportsCricketHd.m3u8
 #https://drmlive.in/voot/122.m3u8
 https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
 
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony Sports TEN 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
 
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony Sports TEN 2 HD
 https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
 
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3 HD
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLiv", Sony Sports TEN 3 HD
 https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
 
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 4 HD
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLiv", Sony Sports TEN 4 HD
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
 
@@ -141,7 +143,7 @@ https://github.com/rahul979854/Channels/raw/main/ZeeBanglaHd.m3u8
 #https://starshare.live/live/bana/bana/198.m3u8
 https://github.com/rahul979854/Channels/raw/main/StarJalshaHd.m3u8
 
-#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="BANGLA",Colors_Bengali_HD
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="BANGLA",Colors Bangla Hd
 #https://starshare.live/live/bana/bana/183.m3u8
 #https://drmlive.in/voot/756.m3u8
 #https://live.drmlive-02.workers.dev/jc/756.m3u8
@@ -163,7 +165,7 @@ https://starshare.live/live/bana/bana/49615.m3u8
 #https://starshare.live:443/live/bana/bana/425.m3u8
 https://github.com/rahul979854/Channels/raw/main/JalshaMoviesHd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BD: Color Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s" group-title="BANGLA",Color Bangla Cinema
+#EXTINF:-1 tvg-id="" tvg-name="BD: Color Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfaYfLX3eac9kK8nvEp6i3NGUs4RP8D1jvHw&s" group-title="BANGLA",Colors Bangla Cinema
 http://starshare.live/live/bana/bana/271038.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Bangla",Sony Aath
