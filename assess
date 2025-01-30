@@ -44,7 +44,6 @@ https://github.com/rahul979854/Channels/raw/main/StarSportsHindi.m3u8
 #http://starshare.live/live/bana/bana/238.m3u8
 https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
 
-
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="INDIA SPORTS",Star Sports Select 2 HD
 #http://starshare.live/live/bana/bana/148801.m3u8
 https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
@@ -52,7 +51,6 @@ https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
 #http://starshare.live/live/bana/bana/2494.m3u8
 https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
-
 
 #EXTINF:-1 tvg-id="820" ch-number="820" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe45nwhlekrvx-UczVPFC0Cv5eBSHtsZsTZQ&usqp=CAU" group-title="SPORTS",Eurosport
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd?|drmScheme=clearkey&drmLicense={"keys":[{"kty":"oct","k":"0OeU48/1ZO0scgoJjrF3xw","kid":"TbI6Qbq/6a/CIqWMWYKDEA"}],"type":"temporary"}
