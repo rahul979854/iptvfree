@@ -1,6 +1,6 @@
 #EXTM3U
 
-url-tvg="https://avkb.short.gy/tsepg.xml"
+url-tvg="https://avkb.short.gy/tsepg.xml.gz"
 
 #EXTINF:-1 tvg-id="Cricbuzz event" tvg-name="Cricbuzz events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlr9akJgC4lGRPCAgNKdBFyM0CfIkIESO77AH2TkWz0ZPIurz439yDu_8&s=10" group-title="CRICKET",Cricbuzz Events UHD
 #https://uselector.cdn.intigral-ott.net/CRL2/CRL2.isml/manifest.mpd?|drmScheme=clearkey&drmLicense=77889c7295e1f113852aa6030242b8e4:ec8c522d46888a15ff6533aa28ccd7f5
