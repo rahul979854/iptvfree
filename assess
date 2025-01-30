@@ -51,8 +51,8 @@ https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
 #http://starshare.live/live/bana/bana/2494.m3u8
-#https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
-http://ledir.thund.re/play/live.php?mac=00:1A:79:22:5A:77&stream=554731&extension=m3u8
+https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
+
 
 #EXTINF:-1 tvg-id="820" ch-number="820" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe45nwhlekrvx-UczVPFC0Cv5eBSHtsZsTZQ&usqp=CAU" group-title="SPORTS",Eurosport
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd?|drmScheme=clearkey&drmLicense={"keys":[{"kty":"oct","k":"0OeU48/1ZO0scgoJjrF3xw","kid":"TbI6Qbq/6a/CIqWMWYKDEA"}],"type":"temporary"}
@@ -72,8 +72,7 @@ https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww
 
 #EXTINF:-1 tvg-id="cric" tvg-name="Fox Sport 501 HD" tvg-logo="https://media.info/l/o/6/6550.1489223922.png" group-title="CRICKET",Fox Sports 501 HD
 #http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=4578&deviceMac=00:1A:79:41:70:15
-#https://github.com/rahul979854/Channels/raw/main/FoxSports501Hd.m3u8
-http://ledir.thund.re/play/live.php?mac=00:1A:79:22:5A:77&stream=554745&extension=m3u8
+https://github.com/rahul979854/Channels/raw/main/FoxSports501Hd.m3u8
 
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" group-title="Sports",TNT 1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -108,7 +107,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 #http://starshare.live/live/bana/bana/124269.m3u8
 https://github.com/rahul979854/Channels/raw/main/SkySportsCricketHd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Football (Soccer)",Sports18 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="SonyLiv",Sports18 HD
 #https://live.drmlive-02.workers.dev/jc/122.m3u8
 #https://drmlive.in/voot/122.m3u8
 https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
@@ -129,7 +128,7 @@ https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="SonyLiv",Sony Sports Ten 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
 
