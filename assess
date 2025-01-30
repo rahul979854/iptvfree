@@ -51,7 +51,8 @@ https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="CRICKET",ASTRO CRICKET HD
 #http://starshare.live/live/bana/bana/2494.m3u8
-https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
+#https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
+http://ledir.thund.re/play/live.php?mac=00:1A:79:22:5A:77&stream=554731&extension=m3u8
 
 #EXTINF:-1 tvg-id="820" ch-number="820" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe45nwhlekrvx-UczVPFC0Cv5eBSHtsZsTZQ&usqp=CAU" group-title="SPORTS",Eurosport
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd?|drmScheme=clearkey&drmLicense={"keys":[{"kty":"oct","k":"0OeU48/1ZO0scgoJjrF3xw","kid":"TbI6Qbq/6a/CIqWMWYKDEA"}],"type":"temporary"}
