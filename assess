@@ -53,7 +53,8 @@ https://github.com/rahul979854/Channels/raw/main/StarSportSelect2Hd.m3u8
 https://github.com/rahul979854/Channels/raw/main/AstroCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://www.logotypes101.com/logos/921/A0E9CD5BCC9176DE238B630F5A474D6F/eurosporthd.png" group-title="INDIA SPORTS",EUROSPORTS HD
-#http://starshare.live/live/bana/bana/216.m3u8
+#EXTVLCOPT:http-user-agent=
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1738383717:KeyName=prod_linear:Signature=ekp2uj4VZPtjO0VgsBBCiseyXuJP0l69j-3Bt3q9E4kEUEPzRc3wPq9T0-gPRpASVzFBhhoemZFM9bNxC5h-DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",WILLOW CRICKET HD
