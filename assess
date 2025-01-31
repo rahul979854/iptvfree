@@ -4,8 +4,8 @@ url-tvg="https://avkb.short.gy/tsepg.xml.gz"
 
 #EXTINF:-1 tvg-id="Cricbuzz event" tvg-name="Cricbuzz events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlr9akJgC4lGRPCAgNKdBFyM0CfIkIESO77AH2TkWz0ZPIurz439yDu_8&s=10" group-title="CRICKET",Cricbuzz Events UHD
 #https://uselector.cdn.intigral-ott.net/CRL2/CRL2.isml/manifest.mpd?|drmScheme=clearkey&drmLicense=77889c7295e1f113852aa6030242b8e4:ec8c522d46888a15ff6533aa28ccd7f5
-http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=4578&deviceMac=00:1A:79:41:70:15
-#https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd?|drmScheme=clearkey&drmLicense=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+#http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=4578&deviceMac=00:1A:79:41:70:15
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd?|drmScheme=clearkey&drmLicense=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
 
 #EXTINF:-1 tvg-id="fancode event" tvg-name="fancode events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6OTWwSCPP67REB8IDYWuZww9j_tvvanCYA&usqp=CAU" group-title="CRICKET",Fancode Events UHD
 http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=4578&deviceMac=00:1A:79:41:70:15
