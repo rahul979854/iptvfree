@@ -273,16 +273,16 @@ https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/6/6e/Sony_Kal_Logo.jpeg"group-title="Hindi",Sony Kal Hd
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/270x152/1170x658withlogo7211ab37352b480183359b0628c61994.png" tvg-chno="0-9-tvhd_0" group-title="",&TV HD
-https://la.drmlive.au/tp/zee-tvhd_0.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://github.com/rahul979854/Channels/raw/main/AndTvHd.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=4578&deviceMac=00:1A:79:41:70:15
-
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Hindi",Zee tv HD
 #https://la.drmlive.au/tp/zee-zeetvhd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 #https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
 https://github.com/rahul979854/Channels/raw/main/ZeeTvHd.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=4578&deviceMac=00:1A:79:41:70:15
+
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/270x152/1170x658withlogo7211ab37352b480183359b0628c61994.png" tvg-chno="0-9-tvhd_0" group-title="",&TV HD
+https://la.drmlive.au/tp/zee-tvhd_0.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://github.com/rahul979854/Channels/raw/main/AndTvHd.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
