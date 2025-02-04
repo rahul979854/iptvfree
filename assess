@@ -280,9 +280,11 @@ https://github.com/rahul979854/Channels/raw/main/ZeeTvHd.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=4578&deviceMac=00:1A:79:41:70:15
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ozlMqYG33seBSbWUFgK_4j6-4kmZqdEil2FA9kYk_tIAl15iEx-z4g&s=10" tvg-chno="0-9-tvhd_0" group-title="",&TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1738725473~acl=%2f*~data=hdntl~hmac=c6e762573e78d858ad9ef86c25b890b1ad0750e666306907c1fa18e35eca59ea
 #https://la.drmlive.au/tp/zee-tvhd_0.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://github.com/rahul979854/Channels/raw/main/AndTvHd.m3u8
-https://yuvraj49.xyz/suntv/index.m3u8?id=140
+#https://yuvraj49.xyz/suntv/index.m3u8?id=140
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 http://starshare.live/live/bana/bana/4037.m3u8
