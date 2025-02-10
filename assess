@@ -55,7 +55,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="https://www.logotypes101.com/logos/921/A0E9CD5BCC9176DE238B630F5A474D6F/eurosporthd.png" group-title="INDIA SPORTS",EUROSPORTS HD
 #EXTVLCOPT:http-user-agent=
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739104354:KeyName=prod_linear:Signature=OQGwElxBMx5nc_6Nuh1k3n7sq6qQiGElkn08yHVg7sVXZyrS1X1F7o7Vqg9LMFckh59XlojCsnqU9PG_RGdvBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1739324180:KeyName=prod_linear:Signature=A4h7s3D22TEBF8Kd4P4jay7Tbf8wMxf-C36TuavcNBvPXdiE-5JveswwWb4qqZsbywbbzLU5TmQJT8VUsGUKDg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="CRICKET",WILLOW CRICKET HD
@@ -134,8 +134,7 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_Hindi.png"group-title="Information",Discovery Hindi HD
-#https://starshare.live/live/bana/bana/157993.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=164&uid=4578&deviceMac=00:1A:79:41:70:15
+https://starshare.live/live/bana/bana/157993.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Discovery_Channel_Bengali.png"group-title="Information",Discovery Bangla HD
 https://starshare.live/live/bana/bana/406.m3u8
