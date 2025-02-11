@@ -423,8 +423,7 @@ https://github.com/rahul979854/Channels/raw/main/AndPrideHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies",&flix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8 
-#https://la.drmlive.au/tp/zee-channel_2105335046.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
+https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
 #https://github.com/rahul979854/Channels/raw/main/AndFlixHd.m3u8
 
 #EXTINF:-1 tvg-id="zeepicchar.in" tvg-name="ZEE Picchar (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-HKtUWqFWB-hsCOP2JFjBHBKGLl1e2zvdw&usqp=CAU" group-title="KANNADA",ZEE Picchar HD
