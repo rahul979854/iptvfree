@@ -105,9 +105,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 https://github.com/rahul979854/Channels/raw/main/SkySportsCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="SonyLiv",Sports18 HD
-https://live.drmlive-02.workers.dev/jc/122.m3u8
+#https://live.drmlive-02.workers.dev/jc/122.m3u8
 #https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
-#https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1739428832~acl=%2f*~id=1acd007748ec1f80292d0a7d5e128f5f~data=hdntl~hmac=697723bf7c0cdc7361bcdc9d218bf7d0d59d2c388cca7a9cacc98f1328668d0b/JC_Sports18_1HD.m3u8
+https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1739428832~acl=%2f*~id=1acd007748ec1f80292d0a7d5e128f5f~data=hdntl~hmac=697723bf7c0cdc7361bcdc9d218bf7d0d59d2c388cca7a9cacc98f1328668d0b/JC_Sports18_1HD.m3u8
 
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony Sports TEN 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
