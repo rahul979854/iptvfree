@@ -412,7 +412,7 @@ https://github.com/rahul979854/Channels/raw/main/AndXplorHd.m3u8
 #EXTINF:-1 tvg-id="starmovies" tvg-name="IN: StarMovies (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPez9Wj2gknrCBW3YLifUanwV7NAbIbs9X5g&usqp=CAU" group-title="MOVIES",Star Movies (FHD)
 #https://github.com/rahul979854/Channels/raw/main/StarMoviesHd.m3u8
 #https://ranapk.spidy.online/MACX/STREAM4K1/play.m3u8?id=474198
-http://stb.iphd.tv:80/live/91858404/7757776/102496.m3u8
+#http://stb.iphd.tv:80/live/91858404/7757776/102496.m3u8
 http://stb.iphd.tv:80/live/14265424/9991524/102496.m3u8
 http://stb.iphd.tv:80/live/jWLyE3zChH/TTt5yR4ysV/102496.m3u8
 
