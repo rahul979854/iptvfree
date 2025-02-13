@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Cric" tvg-name="star sports 4k" tvg-logo="#EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlr9akJgC4lGRPCAgNKdBFyM0CfIkIESO77AH2TkWz0ZPIurz439yDu_8&s=10" group-title="CRICKET",Star Sports 4k
+#EXTINF:-1 tvg-id="Cric" tvg-name="star sports 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRYHEMQYeLXCmJWYTlvStaNJ56XFm2tZeWlFuzJZPHtsUgeGkrfy2iTs&s=10" group-title="CRICKET",Star Sports 4k
 https://github.com/rahul979854/Channels/raw/main/StarSports4k.m3u8
 
 #EXTINF:-1 tvg-id="Cricbuzz event" tvg-name="Cricbuzz events" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlr9akJgC4lGRPCAgNKdBFyM0CfIkIESO77AH2TkWz0ZPIurz439yDu_8&s=10" group-title="CRICKET",Cricbuzz Events UHD
