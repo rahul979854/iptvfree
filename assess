@@ -396,10 +396,10 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/South%20station%20logo.jpeg"group-title="Hindi Movies", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/270x152/1170x658withlogo2d9df480fb454003af3b291d3180f237.png" tvg-chno="0-9-zeeaction" group-title="",Zee Action
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Hindi Movies",Zee Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.au/tp/zee-zeeaction.m3u8 
-#http://bostv.one:8080/live/536/536/85215.m3u8
+#https://la.drmlive.au/tp/zee-zeeaction.m3u8 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/1020193.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
