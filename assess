@@ -100,8 +100,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://github.com/rahul979854/Channels/raw/main/TNTsports5Hd.m3u8?|drmScheme=clearkey&drmLicense=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://assets.tv24.co/channels/bt-sport-ultimate-uhd-l.webp" group-title="Sports",TNT Ultimate
-#https://github.com/rahul979854/Channels/raw/main/TntUltimate4k.m3u8
-https://7pal.short.gy/TNTUltimate
+https://github.com/rahul979854/Channels/raw/main/TntUltimate4k.m3u8
+#https://7pal.short.gy/TNTUltimate
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Sports" tvg-id="beINSports",beIN Sports 1 ᴴᴰ
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd?|drmScheme=clearkey&drmLicense={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
