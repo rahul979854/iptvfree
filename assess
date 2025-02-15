@@ -207,7 +207,7 @@ https://starshare.live/live/bana/bana/405.m3u8
 https://starshare.live/live/bana/bana/404.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-11-20/241120672011.jpg",ABP Ananda
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master_1280.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/rahul979854/logo/main/Zee%2024%20ganta.png",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
@@ -225,7 +225,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="TS-JioTV SonyLIV",SONY YAY
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3651e7400bb811efa5ca2f2804583edb_1715007128500.png?width=250&optimize=low&format=webp" group-title="Hindi",Abp News HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3651e7400bb811efa5ca2f2804583edb_1715007128500.png?width=250&optimize=low&format=webp" group-title="Hindi",Abp News
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzthDqtVIb8Sw5eySV4OWH4_Mnfu7kLj0crg&s" group-title="Hindi",Zee News HD
